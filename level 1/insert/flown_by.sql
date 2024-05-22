@@ -1,1017 +1,811 @@
-﻿prompt PL/SQL Developer Export Tables for user SYSTEM@XE
-prompt Created by orinesher on Monday, May 20, 2024
+﻿prompt PL/SQL Developer Export Tables for user SYS@XE
+prompt Created by yedid on יום רביעי 22 מאי 2024
 set feedback off
 set define off
 
 prompt Loading FLOWN_BY...
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (223613, 482702);
+values (9027547, 6614859);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (640797, 469379);
+values (2002323, 4203917);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (434144, 874711);
+values (4465677, 6691878);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (166815, 846635);
+values (7967802, 7969721);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (214861, 950723);
+values (2105250, 2309785);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (143160, 911642);
+values (8384731, 5573937);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (462836, 586631);
+values (4367388, 3106394);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (930084, 897499);
+values (2573732, 8389534);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (143160, 891120);
+values (5741865, 6115663);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (603495, 626528);
+values (8732719, 5299784);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (524681, 105059);
+values (2073137, 4046050);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486517, 714064);
+values (6647301, 4342494);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (152111, 234591);
+values (7697969, 6561218);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (764778, 240868);
+values (3143867, 9317473);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (135522, 593171);
+values (9536526, 1909563);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (445176, 804414);
+values (1850120, 4425668);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (506223, 820144);
+values (8833532, 6276659);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (723210, 615014);
+values (5489720, 8704153);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (182148, 960784);
+values (6996976, 4619627);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (948986, 153117);
+values (3969060, 8800649);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (283382, 107911);
+values (5835898, 4773588);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (669351, 229081);
+values (6588279, 7480785);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (942655, 614335);
+values (6111917, 2544118);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (293592, 365034);
+values (7760628, 1135636);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (645235, 875533);
+values (7760628, 8635060);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (215553, 850784);
+values (3558731, 1155648);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (169169, 426749);
+values (2644642, 2309785);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (834036, 878597);
+values (1404354, 8899586);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (170575, 455238);
+values (7653106, 2981126);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (366324, 681331);
+values (7223455, 8508690);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (715822, 810212);
+values (4813418, 7661664);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (749735, 407859);
+values (7891934, 5458499);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (428877, 593081);
+values (5286342, 1922820);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (530250, 495580);
+values (4041913, 6080121);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (405553, 629620);
+values (6545818, 5555479);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (723210, 594891);
+values (2430402, 3117047);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (199650, 105059);
+values (6423499, 7112314);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (303317, 883180);
+values (6889954, 8630878);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (989968, 718929);
+values (6509436, 6276659);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (150643, 151807);
+values (1001265, 2341956);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (781464, 506724);
+values (5119652, 3837559);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (571035, 705653);
+values (1341611, 7037748);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (414984, 323791);
+values (9276417, 7612042);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (391338, 146962);
+values (5050251, 4213160);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (320185, 400535);
+values (9017105, 2212915);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (242121, 583033);
+values (7060433, 4203917);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (478017, 347161);
+values (1801195, 6044120);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (313041, 923223);
+values (1341611, 8049649);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (531948, 118176);
+values (4846279, 4916254);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (903002, 656284);
+values (5839915, 9758538);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (150643, 198879);
+values (8076236, 1587974);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (700090, 413992);
+values (6779813, 4291945);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (229873, 899724);
+values (2701045, 1456895);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (253801, 689571);
+values (4709368, 1428481);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (571517, 273078);
+values (5748970, 4733127);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (698809, 409725);
+values (6820064, 2479597);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (659036, 231880);
+values (2852521, 1480278);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (467911, 917832);
+values (1246294, 7480785);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (677205, 663815);
+values (6889954, 3837482);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (640797, 309473);
+values (9276417, 3901931);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (165918, 946383);
+values (5893685, 9492280);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (328288, 858659);
+values (3969060, 1079818);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (390191, 593081);
+values (4012028, 4132950);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (171417, 952869);
+values (3234285, 9847395);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (312641, 153117);
+values (6691664, 1098281);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (844733, 282746);
+values (4646573, 4374392);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (912014, 971506);
+values (6588279, 7806858);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (935291, 163739);
+values (3347834, 4796638);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486243, 384074);
+values (6493266, 1098281);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (119375, 764458);
+values (2940035, 8160250);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (311676, 517935);
+values (5857343, 7969721);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (518232, 784297);
+values (2632768, 1915741);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (213451, 295124);
+values (6779813, 2900688);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (361385, 216732);
+values (5543276, 3330457);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (462508, 273078);
+values (4627718, 7837823);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (768482, 874711);
+values (8124795, 2106690);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (297795, 150526);
+values (5748970, 7591018);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (971028, 927078);
+values (6493266, 8416021);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (653773, 153117);
+values (7889040, 2310068);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (324137, 307765);
+values (4289001, 8791782);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (608877, 788332);
+values (1300131, 3199030);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (651467, 486489);
+values (6706203, 2507678);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (437121, 948363);
+values (3319556, 4378278);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (925114, 681388);
+values (6044901, 4213160);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (517095, 637854);
+values (7653106, 7637493);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (162204, 151113);
+values (3487592, 3465722);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (362001, 798103);
+values (3012945, 3882580);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (585638, 209837);
+values (6490011, 2664521);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486243, 747780);
+values (5685276, 1824263);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (747686, 586631);
+values (1703150, 4227917);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486614, 500296);
+values (9095421, 1116041);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (477931, 621779);
+values (5825281, 7321912);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (710727, 946383);
+values (2934210, 3832870);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (608877, 681149);
+values (5609712, 4773588);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (526539, 170237);
+values (4609340, 5317374);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (710727, 365264);
+values (1710288, 6777007);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (530250, 528893);
+values (6044901, 7461718);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (332023, 852934);
+values (4146123, 7103154);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (812182, 247964);
+values (6121810, 3441463);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (682322, 974009);
+values (4041913, 7298896);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9863330, 1824263);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7439863, 8635060);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4090399, 8237864);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7154411, 9353300);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5188778, 1095060);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7968296, 1456895);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7650680, 5968916);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6468907, 8426809);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5340955, 8797370);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8129098, 6745179);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4090399, 2212915);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6820064, 6693068);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2140684, 1751414);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9726019, 2795337);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3665005, 7991528);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5009599, 8508690);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2852521, 3556625);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6439688, 5568680);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9721026, 5555479);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8004025, 9680026);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2869290, 4227917);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1827209, 3820713);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3415946, 1135636);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7887259, 8916550);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7575841, 4203917);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3485819, 1191220);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1300131, 2621137);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1362581, 4239318);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7607326, 9919788);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4709368, 8899586);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8610659, 1909563);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9141299, 7489866);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7826446, 3465722);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7967802, 6777784);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5245307, 9686528);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9027547, 2302315);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5095745, 6507163);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7653701, 2022997);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5392768, 5780534);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8954165, 9856666);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9097134, 2250721);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4889433, 3837559);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3284416, 1839732);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8095036, 5236827);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4367388, 2793970);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9058011, 9501604);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5563439, 1922820);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9276417, 1951282);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6889954, 5555479);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1836406, 2160161);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4607136, 9501604);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6797001, 5968916);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9581099, 4773588);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1119288, 4102022);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3788947, 4378278);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9144333, 8786394);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4769101, 3556625);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8076236, 8946281);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8999154, 6248061);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2388428, 9759533);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9871783, 6248061);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1980803, 5121499);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2709609, 6276659);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7971537, 4239318);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3803835, 2140699);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2670495, 2664521);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6551791, 6777007);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4093838, 5604618);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5392768, 4177908);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5244716, 8270848);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4023452, 4505477);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9944236, 2259169);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2882945, 4514090);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7887259, 5573937);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3485819, 8403767);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9276417, 9332325);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6647301, 2213792);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1604982, 5573937);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6873345, 3085085);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9395543, 6115663);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6588279, 6973788);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6630741, 6387974);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3605649, 6753646);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8610659, 5332576);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7889040, 2160314);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1651630, 4679587);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9133235, 4505477);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4677067, 9979916);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7305694, 6424969);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6512215, 5080989);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8474516, 2917078);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6630741, 7021617);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4031451, 7837823);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2934210, 2704943);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5095745, 4773588);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9737893, 6693068);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2010251, 4965823);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9144333, 6248061);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7730025, 7612042);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8004025, 2160314);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6775437, 5968916);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3116482, 7944867);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3319556, 9919788);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5852602, 3752363);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9544018, 7514352);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5342974, 4136379);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4889433, 5236827);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4597392, 8049649);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1850120, 6726299);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4093541, 4755683);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8143838, 4849209);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6545818, 1668659);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7653106, 2621640);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4646573, 8137015);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7499977, 2093064);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4159459, 3969491);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8843947, 5945172);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6898651, 7374436);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3070650, 6084300);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9301208, 7482294);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4627718, 1934670);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4813418, 3850586);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1300131, 7103154);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9719892, 1277388);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1103076, 9380319);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6967979, 2212915);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8237870, 4425668);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7575841, 1355966);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1300131, 3587275);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4012028, 4374392);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1952412, 3021375);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4191125, 2507678);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3662559, 1717293);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6414537, 8616975);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5436636, 5345563);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3965683, 6424969);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1560039, 6179775);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4403581, 9919788);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9871783, 3820713);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7968296, 3131460);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2363529, 8071906);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8402665, 3080884);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3590997, 2479597);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4258902, 5295036);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9863330, 7072856);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8052197, 7969721);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1604982, 9317473);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3643671, 9887465);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7223455, 1858087);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5844057, 7900704);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5857343, 7806858);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5372653, 9887465);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5213806, 7321912);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2709609, 4239318);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8592473, 1349769);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9086348, 6507163);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6439688, 6693068);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8124795, 5765060);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7638361, 6045165);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6490011, 1715309);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2073137, 9847395);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8999154, 2309785);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1710288, 3901931);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3605649, 2795337);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9871783, 7637493);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4725268, 2022997);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5992251, 4425668);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4850861, 5491217);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6590447, 5765856);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6121810, 9666798);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5340955, 9300146);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1095181, 5573937);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5286966, 8616975);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9761398, 8901426);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6252336, 2704943);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8004025, 1922820);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5685276, 2507678);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5685276, 8791782);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8515642, 9666798);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1980803, 5905337);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9899666, 3391511);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6252336, 3850586);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5563439, 1189258);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3331942, 7198744);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2140684, 7374436);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2146140, 7022441);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9395543, 4378278);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5009599, 5378343);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8720481, 8916550);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2002323, 1079818);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8843947, 4714493);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4232873, 6554834);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7032429, 1428481);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5119652, 9300146);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4597392, 5905337);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2573732, 9919788);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6468907, 8797370);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7607326, 8916550);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2146140, 3391511);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3012945, 6973788);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1361192, 5299784);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4679059, 1155648);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6654925, 2022997);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2573732, 3523840);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9332161, 3969491);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4465677, 5780534);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5783739, 5187390);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8384731, 4720238);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7653106, 7844776);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4850861, 6332776);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9193074, 4213160);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5489720, 5469287);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7223455, 9680026);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1150609, 3356643);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9719892, 5765856);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7060433, 3522962);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9509716, 6395087);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7697969, 7298896);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2846003, 2653356);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8052197, 8160250);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8317639, 7806858);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4031451, 3106394);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2133491, 4965823);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9865412, 8630878);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3728587, 3738043);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1119288, 8182181);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9871783, 7347821);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7940378, 5435832);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3143867, 8899586);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9133235, 8007791);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3470409, 1915741);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3309034, 1428481);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9301208, 5435832);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5545214, 2310068);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5543276, 9919788);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6512215, 3699717);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7319718, 1079818);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9058011, 6545373);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2140684, 3021375);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6706203, 2257110);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4813418, 9979916);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7247828, 8182181);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4347151, 5403952);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4375651, 5147575);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1651630, 2907826);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3855389, 8630878);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1361192, 9759533);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5844057, 2795337);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6590447, 2160314);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7889040, 1668659);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7439863, 2544118);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5489720, 1668659);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7940378, 7449532);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5244716, 3850586);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7060433, 5626918);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8049734, 1909563);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7607326, 8137341);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8941245, 4213160);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1850120, 7969721);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3080400, 1824263);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2702872, 5341420);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5392768, 7103154);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2133491, 1364691);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4367388, 7449532);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2623062, 1187872);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7012652, 6614859);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3969060, 8270848);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9761398, 6777784);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3181949, 8800649);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7221145, 7837823);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7546924, 9680026);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6414537, 3522962);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4889433, 4755683);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7968296, 5945172);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5543276, 1668659);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9141299, 3659317);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5844057, 4693327);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2009158, 5967771);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1849171, 1277388);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7275079, 3629200);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2732380, 3327282);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2644642, 6045165);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9544018, 3664646);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3415946, 9317473);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3429205, 4585137);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7760628, 5469287);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9719892, 8097840);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3803835, 9686528);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2009158, 9300146);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6414537, 2338447);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2228674, 1572156);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7552962, 2900688);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1801195, 6753646);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3535275, 6821041);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3416034, 5229424);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6898651, 2991994);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8592473, 6044120);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1801195, 1023149);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6468907, 3285473);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2073137, 7482294);
 commit;
-prompt 100 records committed...
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (292241, 672015);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (204323, 234591);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (605642, 917802);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (821902, 198879);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (123972, 250625);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (531948, 434908);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (759438, 747900);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (712138, 455238);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (732929, 933740);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (112042, 587183);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (669305, 615014);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (182148, 899724);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (542985, 384147);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (258407, 178393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (925114, 787007);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (614547, 150973);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (720762, 231880);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (926951, 178393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (664540, 330666);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (224552, 129565);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (386106, 303335);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (435059, 813226);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (636875, 377210);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (438821, 386273);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (768482, 927507);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (256405, 525608);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (571540, 341600);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486866, 150973);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (712138, 952401);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (414984, 718929);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (857805, 454359);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (930133, 764458);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (386106, 382438);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (303317, 165584);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (418407, 162393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (289412, 768617);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (112042, 316740);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (333999, 928845);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (728778, 681388);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (682322, 360965);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (935291, 196209);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (821902, 272372);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (837960, 163739);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (480504, 273078);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (208163, 150732);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (883056, 796180);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (482289, 615014);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (887493, 165758);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (388621, 192140);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (874516, 707916);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (292449, 432479);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (334057, 162021);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (533329, 213169);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (487934, 948363);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (665073, 941784);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (755215, 619637);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (427405, 150374);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (600917, 418378);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (838392, 508692);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (912390, 913133);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (171111, 594891);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (517095, 812058);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (740776, 148960);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (721076, 192730);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (345723, 126942);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (477931, 269787);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (308203, 110636);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (269689, 680462);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (178799, 359987);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (261282, 929034);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (896973, 150973);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (585772, 788332);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (222989, 139521);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (397286, 339034);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (332325, 284188);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (971962, 348680);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (912738, 517935);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (496392, 347003);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (749735, 946383);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (269449, 747900);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (524681, 440689);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (145272, 781199);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (334057, 832994);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (608193, 615014);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (552980, 522642);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (682322, 820144);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (338795, 255374);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (215571, 911642);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (457377, 409528);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (767072, 112807);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (533329, 680462);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (366324, 619637);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (538807, 448935);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (294103, 639144);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (313184, 495580);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (692353, 917802);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (414984, 469379);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (405553, 999411);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (410383, 454359);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (229873, 896781);
-commit;
-prompt 200 records committed...
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (171417, 647283);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (444657, 295124);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (720323, 150526);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (425198, 306804);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (947518, 804414);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (518677, 932937);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (571540, 448959);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (834036, 858659);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (146417, 689809);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (524734, 681984);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (925114, 923729);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (750306, 717952);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (689631, 175489);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (154129, 843092);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (989883, 455992);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (245782, 927507);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (712848, 802187);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (328288, 909671);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (700757, 749182);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (946656, 303335);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (196521, 678462);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (181287, 810212);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (973646, 870858);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (614547, 587183);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (477931, 861664);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (843430, 425360);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (552980, 162021);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (386106, 687695);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (683954, 192730);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (518677, 550662);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (291461, 784297);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (848694, 334934);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (555113, 698141);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (386106, 531163);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (307685, 269828);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (388076, 832586);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (253801, 922715);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (682322, 531163);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (870086, 720435);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (827246, 681149);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (370288, 203607);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (869000, 437850);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (920437, 799476);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (801291, 234938);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (517095, 719727);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (979498, 811251);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (843497, 407859);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (854238, 581662);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (766498, 850191);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (193423, 700441);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (608193, 411421);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (895173, 359987);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (750306, 727215);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (544863, 454998);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (654176, 270140);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (538362, 670092);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (169169, 272951);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (653773, 896781);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (164630, 663815);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (875012, 155415);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (434144, 426749);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (527187, 162128);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (338795, 105018);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (665073, 211076);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (781464, 922715);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (116232, 333738);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (261282, 693656);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (185220, 740595);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (801291, 845359);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486243, 843092);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (219474, 240868);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (163777, 495580);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (947518, 899724);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (123972, 407656);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (544863, 471545);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (588236, 121652);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (419576, 914222);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (989968, 747780);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (225025, 386273);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (400368, 932628);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (163176, 454359);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (824044, 160387);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (524681, 965161);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (929218, 938108);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (109608, 643640);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (423260, 928920);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (606608, 643640);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (896973, 162393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (916095, 729549);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (755215, 791638);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (669305, 545456);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (415483, 409725);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (794481, 333738);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (526539, 250625);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (871644, 687695);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (412924, 448935);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (222989, 105018);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (749735, 832994);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (504584, 192730);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (920437, 453839);
-commit;
-prompt 300 records committed...
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (531948, 153117);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (837960, 348680);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (871033, 139521);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (753662, 431745);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (930133, 144008);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (320185, 284846);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (755215, 793182);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (875012, 201956);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (831349, 151352);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (917975, 162393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (704592, 615014);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (734435, 273078);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (596783, 162021);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (188815, 762512);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (973646, 928920);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (519481, 295294);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (947518, 280541);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (707908, 209837);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (690448, 182819);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (423260, 284188);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (608193, 870858);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (585772, 324491);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (538724, 805475);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (837281, 365034);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (154129, 329587);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (725856, 329010);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (883056, 359722);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (825526, 448683);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (504584, 407656);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (268314, 487744);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (592191, 559670);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (148340, 760084);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (758281, 150973);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (645235, 448959);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (102139, 643640);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (585638, 799476);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (313245, 270140);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (393687, 384074);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (912014, 124042);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (875098, 663293);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (207363, 575783);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (622086, 303335);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (274065, 908836);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (212900, 811251);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (313184, 401639);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (966666, 592453);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (419576, 240868);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (625240, 209837);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (150643, 883822);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (313245, 280000);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (844309, 381446);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (225641, 331510);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (571517, 319240);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (640797, 678462);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (567833, 645575);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (814739, 536486);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (286987, 681331);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (622086, 304729);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (123972, 329587);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486614, 946368);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (944651, 124614);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (333999, 334365);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (732489, 710539);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (585638, 917832);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (415483, 315428);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (659036, 716709);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (335739, 867434);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (320929, 129565);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (292241, 908836);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (595252, 864303);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (150056, 151352);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (253938, 637854);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (567833, 899724);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (712722, 360965);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (517095, 273875);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (439283, 192730);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (161336, 304729);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (282995, 689809);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (178799, 549560);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (625240, 650968);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (595748, 926841);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (827614, 234938);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (283446, 531163);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (229873, 693656);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (269449, 813226);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (409842, 329587);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (895173, 681149);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (609306, 435684);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (457377, 647283);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (415483, 150973);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (781464, 529948);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (750306, 716709);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (206640, 932628);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (312641, 729909);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (478017, 575783);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (410344, 479216);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (971962, 944714);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (689631, 813226);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (206640, 540244);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (438821, 693656);
-commit;
-prompt 400 records committed...
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (933204, 903127);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (837281, 804414);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (371961, 131554);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (814803, 347003);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (264582, 193226);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (137045, 307223);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (565893, 348680);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (214861, 144008);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (831349, 203607);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (421743, 443413);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (911311, 839369);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (332325, 614335);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (165918, 841195);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (888631, 143436);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (289412, 189140);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (123972, 359722);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (982842, 593171);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (224552, 764458);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (320929, 850784);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (912390, 681149);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (549974, 954720);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (600917, 710539);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (999808, 621048);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (438821, 280541);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (282172, 150374);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (704592, 195113);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (750306, 782385);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (225641, 592453);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (827246, 868555);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (854238, 240868);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (606608, 251142);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (410344, 382438);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (549974, 132739);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (410344, 381446);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (682513, 731847);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (592191, 707916);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (818340, 272951);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (182148, 892024);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (215553, 180860);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (843497, 952401);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (665710, 334934);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (487250, 469379);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (264582, 124042);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (971631, 841195);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (193423, 851096);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (606608, 435804);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (586468, 535234);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (427990, 169947);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (682513, 559670);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (844733, 685645);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (682513, 890899);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (178799, 885138);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (225641, 409528);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (953162, 782385);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (723210, 735401);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (409842, 508692);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (486866, 148126);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (896973, 841195);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (814739, 319240);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (261282, 933740);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (425198, 390440);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (164048, 631944);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (669351, 618405);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (312641, 479216);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (376398, 719727);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (226415, 195113);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (143160, 960824);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (412924, 363480);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (164630, 841195);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (118869, 489478);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (313041, 845937);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (154129, 871216);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (704592, 946368);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (163014, 420780);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (613519, 304729);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (253801, 818455);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (229034, 426749);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (581918, 454998);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (459566, 551183);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (439283, 693656);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (944104, 760084);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (662645, 799476);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (353511, 663293);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (653773, 687695);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (912014, 161510);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (320185, 414848);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (305881, 231698);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (259261, 764458);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (102139, 681388);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (164048, 818335);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (407626, 600245);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (797088, 672015);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (508712, 720435);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (425198, 522642);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (585638, 681331);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (875012, 522642);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (721076, 162393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (944651, 689809);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (714163, 637854);
-commit;
-prompt 499 records loaded
+prompt 400 records loaded
 
 set feedback on
 set define on

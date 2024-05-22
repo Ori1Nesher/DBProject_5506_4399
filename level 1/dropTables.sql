@@ -2,8 +2,8 @@
 DROP TABLE Flown_By;
 DROP TABLE Assigned_To;
 DROP TABLE Aircraft;
+DROP TABLE Supply;
 DROP TABLE Flight;
 DROP TABLE Base;
 DROP TABLE Mission;
 DROP TABLE Soldier;
-DROP TABLE Supply;

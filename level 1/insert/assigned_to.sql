@@ -1,1015 +1,811 @@
-﻿prompt PL/SQL Developer Export Tables for user SYSTEM@XE
-prompt Created by orinesher on Monday, May 20, 2024
+﻿prompt PL/SQL Developer Export Tables for user SYS@XE
+prompt Created by yedid on יום רביעי 22 מאי 2024
 set feedback off
 set define off
 
 prompt Loading ASSIGNED_TO...
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (850784, 529324);
+values (7788499, 4911639);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (294878, 210052);
+values (3882580, 5118729);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (517489, 241721);
+values (6825434, 6940679);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (843092, 824085);
+values (6044120, 2567930);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (629620, 741345);
+values (2106690, 7405600);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (200156, 476752);
+values (5402107, 6760727);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (845937, 104146);
+values (5684744, 4314253);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (211076, 688290);
+values (9116009, 8680869);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (396437, 964526);
+values (5378343, 8365360);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (446943, 826201);
+values (5480592, 8513291);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (403045, 355007);
+values (7806858, 6898044);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (426749, 877179);
+values (4916254, 8925872);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (487744, 322940);
+values (8182181, 3959199);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (649256, 734925);
+values (5187390, 4216976);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (908078, 241206);
+values (7837823, 7865940);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (288021, 364232);
+values (7611690, 7389457);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (594891, 684348);
+values (3117047, 7448028);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (163739, 837767);
+values (8616975, 6434312);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (839369, 945523);
+values (4213160, 5626169);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (234481, 725894);
+values (8901426, 1341868);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (471545, 359847);
+values (8270848, 8607133);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (485189, 753484);
+values (7193186, 6760727);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (592453, 488498);
+values (2341877, 7613299);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (435684, 400888);
+values (2309785, 3018616);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (273875, 759708);
+values (7112314, 2443592);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (539666, 221744);
+values (6703833, 6347610);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (698141, 394196);
+values (9125118, 8318720);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (151113, 269746);
+values (1572156, 6374520);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (552219, 717918);
+values (5822288, 6507700);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (295294, 600568);
+values (2140699, 6933564);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (467037, 731855);
+values (8800649, 7760051);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (681149, 715739);
+values (3554250, 5012134);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (339407, 103795);
+values (8877598, 7105772);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (689809, 337785);
+values (5967771, 4104537);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (804526, 684592);
+values (3074378, 3278111);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (150732, 530150);
+values (7180931, 9991224);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (489478, 882969);
+values (6726299, 8877258);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (479216, 187585);
+values (8635060, 9782822);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (845359, 824085);
+values (6545373, 5603992);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (536809, 463386);
+values (5435832, 2005154);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (335680, 791588);
+values (7021617, 5064994);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (196209, 688290);
+values (5626918, 7050630);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (165584, 202800);
+values (7489866, 8482825);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (693656, 354134);
+values (3587275, 8482825);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (413992, 684348);
+values (4796638, 3738931);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (952869, 511171);
+values (4213160, 4676589);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (911642, 988334);
+values (9887465, 2210896);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (304729, 692826);
+values (3752363, 6298147);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (908836, 859105);
+values (4693327, 5144854);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (334934, 765729);
+values (6821041, 5506810);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (193226, 713981);
+values (1095060, 2026766);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (917802, 193939);
+values (7611690, 5593253);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (656284, 142024);
+values (3080884, 8039759);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (621048, 726434);
+values (2309785, 5792402);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (663293, 569738);
+values (7612042, 4916726);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (407656, 859105);
+values (2257110, 3207153);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (681331, 531394);
+values (2022997, 7865940);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (324491, 481905);
+values (3199030, 4310000);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (335680, 842574);
+values (1572156, 4310000);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (663815, 942552);
+values (6314116, 8699815);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (489478, 560555);
+values (9979916, 1137940);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (883822, 797748);
+values (9887465, 6298147);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (762512, 102239);
+values (6561218, 8404000);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (315428, 671443);
+values (5299784, 4453889);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (762512, 693693);
+values (2257110, 6933564);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (363480, 955555);
+values (6314116, 3398286);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (802187, 833540);
+values (9919788, 6742804);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (549560, 169175);
+values (7612042, 1545857);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (150973, 364232);
+values (5568680, 5066770);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (818455, 317704);
+values (5656506, 9924088);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (129565, 538233);
+values (4973657, 8957884);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (971506, 393738);
+values (7112314, 8048905);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (837439, 823844);
+values (5402107, 7836670);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (699287, 865574);
+values (2160161, 3337515);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (448935, 754377);
+values (3021375, 2567930);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (340268, 476752);
+values (5435832, 1225618);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (842002, 798398);
+values (2452467, 5243647);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (923223, 806268);
+values (6179775, 1894598);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (322177, 478861);
+values (6545373, 4230849);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (231061, 754441);
+values (1258904, 6076233);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (687695, 634421);
+values (4102022, 4314253);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (593081, 895041);
+values (2093064, 2509406);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (416321, 719315);
+values (2112201, 5066770);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (906680, 697249);
+values (5200050, 3855473);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (517368, 579755);
+values (9999801, 7539262);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (437850, 185214);
+values (7755340, 9015433);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (250625, 612906);
+values (7514352, 2485184);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (272372, 708407);
+values (4678453, 6434312);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (386273, 241721);
+values (3837482, 5264853);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (890899, 693693);
+values (7806858, 3781191);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (710539, 963370);
+values (3554250, 4081314);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (155415, 269746);
+values (5332576, 7184117);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (655382, 294198);
+values (4227917, 2901569);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (359987, 926077);
+values (6115663, 7105772);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (883180, 693693);
+values (8237864, 9594183);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (454998, 479021);
+values (5967771, 5583820);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (330666, 195657);
+values (2106690, 1716645);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (923223, 203353);
+values (2544118, 1530999);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (384074, 346122);
+values (1497017, 4911639);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (628013, 789859);
+values (6554834, 8799338);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4374194, 5279183);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4213160, 6999037);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8704153, 1462948);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9366139, 1530999);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8562301, 4600282);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1922820, 7603508);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9116009, 1341868);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1751414, 3865241);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3285473, 8318720);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1824263, 8222494);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3155666, 7002182);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4603700, 2005154);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5403952, 8404000);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1715309, 1894598);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9887465, 6651428);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1564363, 6411634);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8508690, 5226634);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5458499, 4987428);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2303883, 2033370);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5317374, 2072952);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4239318, 5118729);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2981126, 2509406);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4619627, 7765832);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7944867, 5201670);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1155648, 7869620);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9856666, 8565449);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1456895, 1836819);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2621137, 9253411);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4773588, 9924088);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3738043, 8318720);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7893446, 4676589);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5345563, 3346410);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1355966, 4950151);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3837482, 3011070);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1668659, 7221114);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8389534, 4477468);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9253826, 1714050);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5656506, 5603992);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7140308, 1714050);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2867642, 7823024);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2112201, 6076233);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9253826, 1127539);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5402107, 6949502);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2659153, 1172984);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6598428, 5279183);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6753646, 9956356);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1428481, 2445212);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7806858, 8042169);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8403767, 1225618);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5555479, 8862834);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3074378, 7050630);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3021375, 8714168);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5458499, 2302777);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7600310, 9924088);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4965823, 8714168);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8635060, 9092219);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5435832, 6107927);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3978144, 3811234);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1853232, 4911639);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2463171, 1463513);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8899586, 6448929);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3085085, 8445661);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8416021, 6949502);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7489866, 2685564);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6703833, 9198327);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7461718, 2081164);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4720238, 8017347);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4714493, 4861218);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1720920, 9526063);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7806858, 2802986);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8137341, 2815051);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4342494, 7571904);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5200050, 2443592);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4814911, 5970327);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4479962, 2008800);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4679587, 3456017);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7321912, 2599160);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3837482, 8042169);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1508980, 7821480);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2884877, 5836694);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2917078, 7448028);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3270349, 5144854);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5408793, 4676589);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6726299, 2567930);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4203917, 3456017);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8403767, 1127539);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7347821, 3435311);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3587275, 1368164);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6973788, 7050630);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2341956, 4911639);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1777374, 3829558);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6753646, 5397494);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6545373, 5076383);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5341420, 7275729);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1720920, 6088788);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1428481, 9526063);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6561218, 9092219);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2409071, 2378655);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5891587, 6298147);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7944867, 1659221);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1187872, 3865241);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4678453, 7275729);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6777007, 5864962);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3327282, 8222494);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3117047, 4343917);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3321125, 4862798);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1736823, 1961565);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3523840, 1714050);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9979916, 1614046);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6554834, 7101472);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1135636, 4310000);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1858087, 7442391);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5200050, 1462948);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4177908, 5031926);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7661664, 2210896);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2112201, 6038035);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6424969, 7603508);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2659153, 7832824);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8007791, 6898044);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9125118, 1276902);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6179775, 5144854);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2793970, 8520206);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4213160, 5233506);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1564363, 1597631);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1187872, 3246403);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8562301, 2928653);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5920478, 6940679);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3391511, 1772601);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6276659, 6088788);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4678453, 3336293);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4895302, 6278139);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5121499, 6347610);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6507163, 7306562);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2907826, 2005192);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9553016, 5258982);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8738514, 8452688);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6450550, 1973652);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3199030, 8952049);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1533316, 9170458);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3891531, 9896093);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8738514, 5972626);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5568680, 1842833);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2303883, 2445212);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5200050, 5584251);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4408635, 8445661);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7321912, 5116127);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1364691, 1523673);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2310068, 8222494);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4585137, 7765832);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7480785, 9896093);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5300204, 1425350);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8097840, 4438802);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5920478, 5583820);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4796638, 6050317);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5187390, 8323826);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9600587, 9526063);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6236729, 1137940);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3901931, 5397494);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7347821, 8074005);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6248061, 4630030);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4965823, 3207153);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5284417, 6933466);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2310068, 5584827);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1720920, 4475321);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2093064, 9343166);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3752363, 8709048);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5648607, 6933564);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4755683, 8709048);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1744929, 6999037);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5451956, 6374520);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1336250, 1952444);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3522962, 7377847);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2213792, 2802986);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2259169, 8035986);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9856666, 6912407);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6395087, 3609735);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9332325, 1614046);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5945172, 4264228);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5789435, 5577043);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5967771, 1147974);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9501604, 7760051);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7057458, 7357355);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8137015, 7619854);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4342494, 7574593);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2479597, 6933466);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1736823, 7101472);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3522962, 5864962);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2907826, 5593253);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3522962, 1225618);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2409071, 8210420);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2306955, 1368164);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5062479, 8461310);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3441463, 6507700);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7072856, 8461310);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2160161, 4230849);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5905337, 1772601);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8616975, 1952444);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1098281, 6492173);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6777784, 9896093);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4301384, 3947410);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3556625, 5175441);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4733127, 3337515);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9600587, 5279183);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2302315, 3188908);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7482294, 9163297);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8426809, 6933466);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2884877, 5603992);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1744929, 7539262);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4424092, 1597631);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3832870, 3245082);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8797370, 1463513);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5062479, 5583820);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7893446, 4987428);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5480592, 2328675);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1934670, 3284065);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2160314, 1961565);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2991994, 1099111);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6424969, 6742804);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8635060, 1338774);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1023149, 4104537);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2160161, 7832824);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9020720, 7832824);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7103154, 7675673);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5187390, 7574593);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5284417, 6507700);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6332776, 5860149);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1098281, 4230849);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2303883, 7389457);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5555479, 5712291);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8738514, 2667029);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7591018, 6448929);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4755683, 7387225);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2664521, 3026687);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5684744, 9222662);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1364691, 1445521);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2463171, 8404000);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9366139, 8543360);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3664646, 8957884);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8534526, 7306562);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6395087, 7448028);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3131460, 4438802);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6179775, 5436642);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7694911, 6492173);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1853232, 8042169);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7611690, 7405600);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9300146, 8686395);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9020720, 4104537);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9881814, 7528520);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7806858, 9222662);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8007791, 1836819);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5812086, 1112001);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6580706, 3876568);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5402107, 9871949);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3556625, 2644553);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5403952, 5332358);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5656506, 6448929);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7037748, 4701053);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1258904, 7448028);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6726299, 9871949);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3106394, 4630030);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1509014, 7587164);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7600310, 7619854);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5135919, 8952049);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5789435, 8714168);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1079818, 9343166);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7788499, 9047789);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7449532, 2302777);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8630878, 9594183);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2303883, 4453889);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4424092, 1008263);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2310068, 4987428);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3522962, 4946308);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3523840, 7539262);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4378278, 7101472);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3285473, 3463512);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1564363, 7387225);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8635060, 8210420);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8049649, 6626212);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1187872, 1030032);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9881814, 1112001);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2653356, 9991224);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6395087, 9924163);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9759533, 4630030);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7974304, 6101672);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1189258, 7275729);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4132950, 2030494);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9380319, 1530999);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8426809, 3154160);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7991528, 4264228);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9600587, 6633428);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3465722, 9991224);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5480592, 6050317);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5862495, 6179556);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7321912, 7101472);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7347821, 5886697);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1155648, 9594183);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2213792, 8437420);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3074378, 7788685);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7694911, 4069436);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9779488, 4950151);
 commit;
-prompt 100 records committed...
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (525608, 477222);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (105059, 848462);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (835045, 252679);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (418378, 855837);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (304729, 456342);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (320548, 220422);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (400535, 432199);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (370375, 649339);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (874711, 769823);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (681388, 904679);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (698141, 520376);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (536329, 712634);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (495580, 407512);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (954987, 790888);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (182114, 979373);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (587183, 741345);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (196209, 413083);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (994577, 223673);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (377210, 598375);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (954720, 799842);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (201956, 810037);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (150374, 896815);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (366633, 669907);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (848651, 429582);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (414848, 356173);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (960029, 270052);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (791638, 548803);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (198299, 753403);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (495580, 558558);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (639144, 485547);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (315428, 372901);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (799476, 538477);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (308911, 355007);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (729909, 629704);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (984197, 818643);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (705653, 826201);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (655382, 824435);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (600643, 484961);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (600643, 287822);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (329587, 160295);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (932628, 197333);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (850784, 372901);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (536329, 911769);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (294223, 564400);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (469379, 662344);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (272951, 983595);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (450987, 576329);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (938108, 865574);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (878597, 798019);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (669091, 662344);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (367946, 759940);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (521350, 676110);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (700920, 390757);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (878597, 572115);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (731847, 599224);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (144008, 961238);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (334365, 712634);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (255374, 598375);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (454359, 204966);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (747900, 815403);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (151352, 229153);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (952401, 379925);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (251142, 116420);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (272372, 630940);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (679446, 452184);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (870457, 397032);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (700441, 364232);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (446943, 110098);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (229081, 695753);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (340268, 732974);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (146962, 384357);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (230464, 465647);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (151807, 753170);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (617071, 705875);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (747900, 646723);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (284188, 538477);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (799476, 601188);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (435684, 172389);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (155415, 277425);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (627183, 346122);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (536486, 116420);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (462616, 511791);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (126942, 580275);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (634814, 576329);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (178393, 806424);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (231061, 910000);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (645575, 330173);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (932628, 304692);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (593081, 372997);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (645291, 505675);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (608892, 442054);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (973123, 826839);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (450987, 481198);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (672015, 375836);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (848651, 525881);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (813226, 560555);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (929034, 186305);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (469379, 168277);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (861664, 503100);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (954720, 780528);
-commit;
-prompt 200 records committed...
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (737363, 115031);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (170237, 979511);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (366633, 138855);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (631944, 172389);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (811251, 868548);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (146962, 220422);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (913133, 649339);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (603580, 379925);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (240868, 380180);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (365034, 394196);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (740595, 110098);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (339407, 688290);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (653784, 855837);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (500296, 974708);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (927507, 653639);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (549560, 634421);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (954720, 219479);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (462616, 895041);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (944989, 149652);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (965161, 365579);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (435804, 940458);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (600643, 566981);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (396437, 596928);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (528893, 447586);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (707916, 987214);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (802187, 713876);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (858659, 470900);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (195113, 204966);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (231061, 626269);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (868555, 730378);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (120426, 993592);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (200156, 826839);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (381446, 340698);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (151113, 185214);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (282773, 877179);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (535234, 816053);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (793182, 974708);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (231880, 566981);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (448959, 295151);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (414848, 491707);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (874711, 258023);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (836372, 243380);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (883180, 748207);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (583033, 862517);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (182114, 820311);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (341600, 611556);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (121652, 579969);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (677384, 799842);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (864303, 691970);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (587183, 704089);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (716709, 870063);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (452413, 988334);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (288021, 570100);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (715657, 755228);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (850191, 626269);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (989596, 818490);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (791638, 463386);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (576624, 229153);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (897227, 695933);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (720435, 269631);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (470236, 267364);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (812058, 610136);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (470236, 530150);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (669091, 375885);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (335680, 936025);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (418378, 112661);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (546405, 332046);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (347161, 787304);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (950723, 321375);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (455238, 565146);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (618405, 649501);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (645159, 694561);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (234591, 304456);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (192140, 623091);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (401639, 139846);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (637854, 252679);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (681149, 607751);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (885138, 169175);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (902526, 748767);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (105018, 221744);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (114435, 570100);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (736611, 252679);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (984197, 676110);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (114435, 456342);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (650968, 186305);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (802187, 550462);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (917832, 835355);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (178393, 759940);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (929221, 750825);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (810212, 104146);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (357467, 375885);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (303335, 269746);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (813226, 475009);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (295124, 544180);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (960824, 987214);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (850784, 204966);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (858659, 508760);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (452413, 499660);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (359987, 479905);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (656284, 823844);
-commit;
-prompt 300 records committed...
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (987865, 493827);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (353032, 453525);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (878597, 653639);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (396437, 852061);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (487744, 694873);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (881685, 242752);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (359987, 494406);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (929221, 840372);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (160387, 348798);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (813226, 866463);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (914222, 826839);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (448959, 837767);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (165584, 192024);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (452413, 525881);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (148126, 842836);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (656284, 777254);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (508692, 566981);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (531726, 911769);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (143436, 910000);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (485189, 491707);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (309473, 904679);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (124042, 375836);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (680462, 703486);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (150374, 730378);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (322177, 902605);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (787007, 306213);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (649256, 964526);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (375529, 754652);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (911642, 453525);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (169947, 731855);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (175489, 494406);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (945866, 464251);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (974009, 241206);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (155415, 866463);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (621779, 352380);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (189140, 432199);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (112807, 896815);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (454359, 750825);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (845937, 354134);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (280000, 159696);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (269828, 350170);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (747900, 988334);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (798103, 219688);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (708233, 390983);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (150732, 671443);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (315428, 708407);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (603580, 470748);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (284188, 344320);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (841195, 726434);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (367946, 378333);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (540244, 197333);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (295294, 725894);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (899724, 741790);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (333738, 104146);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (435684, 873631);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (294878, 579969);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (764458, 357713);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (120845, 337785);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (670092, 905465);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (455238, 760514);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (231698, 141950);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (454998, 580275);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (932937, 584995);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (938108, 359847);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (309473, 870741);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (621779, 943115);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (520048, 565146);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (883180, 833866);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (931907, 721314);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (399805, 390757);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (120845, 960448);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (799476, 415095);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (681331, 561018);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (965161, 892178);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (762475, 683220);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (531726, 538541);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (693656, 405179);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (170751, 464251);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (189140, 703486);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (583033, 892178);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (948363, 154311);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (182114, 704089);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (162244, 987214);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (365264, 156977);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (307765, 898762);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (793182, 896815);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (784297, 926077);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (944989, 258023);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (522227, 979373);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (954720, 136450);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (617071, 707192);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (846635, 810037);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (471545, 200859);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (762512, 772359);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (593081, 727615);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (333738, 130252);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (230464, 496771);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (929221, 525881);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (548831, 599224);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (390440, 269631);
-commit;
-prompt 400 records committed...
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (549560, 135722);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (269787, 694561);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (448935, 671443);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (928845, 505675);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (446943, 818643);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (117043, 275593);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (150374, 221541);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (120426, 765729);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (162244, 639498);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (885138, 754377);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (848651, 505567);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (150374, 988334);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (747780, 798019);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (669091, 511791);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (294878, 380180);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (837251, 570100);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (670092, 520376);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (330666, 629704);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (584617, 378333);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (161510, 513721);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (117043, 859929);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (360965, 716230);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (875533, 269631);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (234591, 548803);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (453407, 560555);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (631944, 511171);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (319408, 842836);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (357419, 772359);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (629620, 338234);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (917802, 824435);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (870858, 570665);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (536486, 705875);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (631944, 820311);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (357467, 815403);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (170751, 513721);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (309473, 895041);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (148126, 303191);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (156683, 168357);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (762512, 704860);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (121652, 835597);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (681331, 138855);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (796180, 187555);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (443413, 791588);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (529948, 475070);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (787007, 102239);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (206481, 353119);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (269787, 598193);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (163739, 112661);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (485189, 499660);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (384147, 785035);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (107911, 393930);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (411421, 598193);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (450987, 252679);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (272372, 210052);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (913133, 789859);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (162244, 257440);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (143436, 963370);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (843092, 508760);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (871216, 697894);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (295294, 676110);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (175489, 904679);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (165758, 610136);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (414485, 842574);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (837439, 390757);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (357467, 103836);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (944714, 694561);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (280541, 270052);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (593171, 703486);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (270140, 302852);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (360965, 415846);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (708233, 448467);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (929221, 866463);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (876044, 940458);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (263069, 626269);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (946368, 823844);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (587183, 565146);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (116783, 635114);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (959464, 457463);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (552219, 816580);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (617071, 868548);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (440689, 465647);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (832994, 691970);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (409528, 221744);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (991364, 484961);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (849089, 355007);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (628013, 380180);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (495580, 229153);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (876044, 115031);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (148960, 231336);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (319408, 963370);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (870457, 589562);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (308911, 964526);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (593171, 723949);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (728046, 653639);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (450987, 182911);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (667274, 988334);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (626528, 727615);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (539666, 596928);
-commit;
-prompt 498 records loaded
+prompt 400 records loaded
 
 set feedback on
 set define on
