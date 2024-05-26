@@ -1,0 +1,201 @@
+Flight_ID,Date_Of_Flight,Type_Of_Flight,Mission_ID
+585668,2025-12-27,Weather reconnaissance,772900
+411004,2027-03-04,Training flights,689311
+536974,2027-06-18,Aero-medical transport,680765
+547747,2027-06-04,Pilot proficiency flights,453976
+499866,2028-09-30,Aerial photography,801001
+741270,2027-06-21,Tactical transport flights,911019
+336844,2026-07-13,Medical evacuation flights,233599
+130146,2029-12-11,Humanitarian aid flights,522886
+313126,2029-01-13,Weather reconnaissance,280410
+857936,2028-06-08,Surveillance flights,402861
+662356,2030-12-13,Medical evacuation flights,968464
+257520,2028-01-18,Calibration flights,355731
+615437,2025-07-09,Aerial photography,488780
+549021,2028-10-16,Medical evacuation flights,502193
+717214,2026-07-21,Tactical transport flights,553503
+939254,2025-02-04,Non-combat reconnaissance,849228
+171335,2026-03-27,Aircraft ferrying flights,109171
+804079,2024-12-16,Humanitarian aid flights,228647
+648009,2030-02-22,Non-combat reconnaissance,696285
+746826,2028-02-01,Aerial interception,355407
+526988,2029-10-06,Non-combat reconnaissance,881974
+695545,2026-05-05,Parachuting missions,835770
+739991,2024-07-23,Aircraft ferrying flights,217961
+783238,2027-11-04,Non-combat reconnaissance,665165
+119829,2025-02-05,Tactical transport flights,997009
+259613,2027-08-19,Non-combat reconnaissance,727204
+944363,2027-04-10,Surveillance flights,911098
+927009,2027-09-22,Weather reconnaissance,546501
+846165,2024-08-11,Calibration flights,799238
+252154,2028-05-08,Tactical transport flights,145422
+447173,2030-07-08,Aerial interception,470849
+378668,2027-06-02,Calibration flights,801001
+251592,2029-08-26,Parachuting missions,881974
+312316,2030-01-27,Test flights,522886
+940705,2029-12-15,Surveillance flights,163547
+720712,2026-03-10,Non-combat reconnaissance,504612
+391667,2026-01-12,Cargo flights,349591
+134944,2027-09-15,Maritime patrols,504612
+958787,2029-12-06,Aerial interception,546234
+636605,2029-06-05,VIP transport flights,483581
+312880,2025-04-05,VIP transport flights,640000
+189070,2028-12-22,Humanitarian aid flights,162881
+940237,2028-08-06,VIP transport flights,832684
+769604,2024-11-15,Logistics support flights,308795
+150263,2028-12-11,Surveillance flights,760893
+309147,2027-08-19,Tactical transport flights,420426
+503324,2026-02-24,Pilot proficiency flights,221253
+390565,2028-10-02,Parachuting missions,983182
+196758,2025-03-26,Aerial photography,759263
+482617,2028-03-26,Medical evacuation flights,340846
+205858,2028-02-12,Surveillance flights,222556
+129158,2029-12-20,Logistics support flights,762231
+209046,2026-05-16,Aerial photography,997009
+955937,2028-08-15,VIP transport flights,762231
+693259,2029-07-27,Aerial interception,119917
+409764,2030-08-06,Logistics support flights,369318
+740658,2025-01-03,Tactical transport flights,989884
+416176,2026-02-23,Test flights,795068
+316109,2029-01-01,Weather reconnaissance,338311
+693963,2026-01-11,Medical evacuation flights,546234
+210605,2030-10-20,Medical evacuation flights,982590
+390666,2030-06-08,Parachuting missions,420258
+152006,2026-07-04,Surveillance flights,101074
+535827,2029-05-11,Test flights,545222
+392320,2025-07-11,Surveillance flights,493734
+814608,2026-09-29,VIP transport flights,750024
+652473,2028-10-17,Aerial interception,879520
+351266,2027-09-10,Pilot proficiency flights,208158
+180698,2027-03-16,Tactical transport flights,146025
+727923,2030-10-03,Aerial photography,849228
+629263,2030-12-25,Weather reconnaissance,795068
+574192,2027-06-03,Non-combat reconnaissance,481192
+886629,2030-04-21,Humanitarian aid flights,333025
+189287,2024-12-13,Humanitarian aid flights,816450
+930068,2030-03-01,Aerial photography,759263
+210610,2027-06-23,Medical evacuation flights,816450
+819001,2030-12-29,VIP transport flights,691009
+468328,2030-03-12,Calibration flights,493734
+108539,2026-05-15,Test flights,453976
+403755,2029-12-10,Pilot proficiency flights,483581
+191056,2026-09-03,Medical evacuation flights,227160
+308701,2030-04-07,Medical evacuation flights,695259
+986830,2027-01-03,Humanitarian aid flights,920782
+248425,2025-06-17,Weather reconnaissance,252174
+105388,2029-01-07,Parachuting missions,839688
+347314,2029-06-13,Maritime patrols,178394
+931705,2028-12-28,Training flights,839688
+181406,2025-07-10,Surveillance flights,227160
+652567,2030-03-16,Weather reconnaissance,368010
+813171,2024-12-16,Aircraft ferrying flights,968464
+196118,2027-12-20,VIP transport flights,640000
+213209,2030-12-03,Aerial photography,486553
+587677,2025-10-27,Maritime patrols,227160
+645330,2029-04-18,Parachuting missions,488780
+847704,2029-07-29,Aero-medical transport,807215
+102338,2025-12-08,Calibration flights,454393
+972426,2026-11-23,Surveillance flights,351590
+201459,2028-05-15,Surveillance flights,359779
+339919,2029-02-08,Calibration flights,380596
+117383,2029-01-19,Logistics support flights,546234
+547717,2030-05-10,Training flights,945785
+620365,2024-10-23,Non-combat reconnaissance,696285
+445399,2025-03-30,Training flights,404956
+100989,2025-08-19,Medical evacuation flights,112779
+672127,2027-12-21,Maritime patrols,889416
+286727,2024-09-14,Tactical transport flights,423139
+139953,2026-10-08,Pilot proficiency flights,109171
+155754,2028-07-29,Surveillance flights,651810
+566063,2030-01-15,Pilot proficiency flights,269298
+655419,2026-06-22,Cargo flights,233599
+258313,2030-06-20,Test flights,849085
+397112,2026-01-21,Aircraft ferrying flights,355407
+818045,2029-04-04,Logistics support flights,112801
+791177,2024-09-13,Non-combat reconnaissance,561332
+123546,2028-11-07,Cargo flights,911098
+943119,2027-02-09,Aerial interception,989044
+212201,2030-09-20,Aero-medical transport,631875
+791091,2030-11-03,Test flights,645869
+707980,2028-05-11,Calibration flights,481192
+137932,2030-10-20,Combat air patrols,156740
+259162,2030-10-02,Calibration flights,906019
+507564,2028-09-13,Humanitarian aid flights,493734
+115877,2029-09-13,Test flights,945785
+741693,2026-01-16,Test flights,453976
+390102,2026-02-15,Humanitarian aid flights,540463
+414917,2026-12-24,Aero-medical transport,111652
+597484,2027-11-23,Aerial interception,516782
+901431,2025-01-13,Logistics support flights,349591
+978409,2025-11-16,Non-combat reconnaissance,320065
+124825,2029-12-17,Weather reconnaissance,404956
+628384,2029-10-09,Weather reconnaissance,161737
+442199,2026-03-13,Medical evacuation flights,258139
+154916,2030-08-10,Aerial photography,470974
+381795,2026-07-27,Cargo flights,762231
+536454,2028-01-05,Aerial interception,359779
+145492,2030-06-08,Surveillance flights,368127
+847345,2030-12-20,Medical evacuation flights,552079
+168861,2024-12-11,Test flights,504612
+554137,2026-02-28,Training flights,221797
+791625,2026-06-17,Parachuting missions,215603
+255303,2028-08-24,Cargo flights,832684
+507027,2024-09-07,Aerial interception,973649
+180270,2025-04-17,Calibration flights,221797
+479638,2028-11-19,Medical evacuation flights,269721
+964618,2027-10-06,Aircraft ferrying flights,162881
+873076,2029-09-13,Aircraft ferrying flights,499558
+550340,2030-10-10,Humanitarian aid flights,109171
+363278,2026-10-04,Aerial photography,804820
+431823,2027-09-07,Tactical transport flights,118822
+841993,2029-09-09,Calibration flights,450411
+917897,2024-12-21,Cargo flights,387921
+431610,2029-01-10,Logistics support flights,334604
+732868,2029-04-16,Cargo flights,118822
+542468,2026-01-31,Calibration flights,651810
+171740,2027-06-25,Medical evacuation flights,906019
+990074,2025-06-25,Test flights,569448
+364436,2029-05-26,Surveillance flights,616416
+131675,2030-06-14,Surveillance flights,470849
+418138,2025-05-21,Aircraft ferrying flights,717338
+846763,2025-08-03,VIP transport flights,351590
+892733,2025-08-23,Combat air patrols,516651
+235323,2028-06-20,Test flights,561332
+110668,2025-09-10,Parachuting missions,470974
+291874,2029-10-07,Humanitarian aid flights,109171
+139514,2025-01-05,Aerial interception,835770
+658153,2024-12-05,Parachuting missions,404956
+432704,2027-10-02,Tactical transport flights,192961
+667093,2030-11-16,Aerial photography,645869
+609204,2028-08-05,Aero-medical transport,450411
+488123,2028-07-09,Combat air patrols,621664
+690738,2029-05-02,Logistics support flights,402861
+140738,2029-01-09,Maritime patrols,350602
+490001,2024-07-24,Non-combat reconnaissance,192961
+125096,2026-01-11,Parachuting missions,420258
+966222,2028-05-27,Humanitarian aid flights,648703
+897522,2027-03-09,Logistics support flights,988184
+612422,2024-09-07,Humanitarian aid flights,851087
+939891,2028-11-21,Tactical transport flights,146025
+590698,2024-12-01,Aerial interception,626516
+366772,2030-02-18,Calibration flights,640000
+968297,2029-08-18,Training flights,561332
+177754,2025-09-30,Combat air patrols,145422
+216139,2025-09-10,Tactical transport flights,502279
+374306,2026-01-14,Combat air patrols,483581
+752553,2024-09-24,Combat air patrols,643609
+283683,2024-12-02,Combat air patrols,736829
+831831,2027-08-24,VIP transport flights,420426
+215346,2026-06-26,Aero-medical transport,351590
+545178,2024-12-04,Parachuting missions,889416
+708345,2029-12-09,Non-combat reconnaissance,804368
+561648,2026-05-19,Humanitarian aid flights,765370
+445597,2030-11-25,Non-combat reconnaissance,757124
+573270,2028-05-08,Maritime patrols,214589
+611074,2027-07-11,Non-combat reconnaissance,945785
+610906,2025-06-18,Tactical transport flights,217138
+283742,2029-11-25,Aircraft ferrying flights,355407
+872204,2028-08-22,VIP transport flights,689311
+982688,2030-11-24,Combat air patrols,553503
+504997,2027-05-29,Parachuting missions,470849
+384284,2028-06-20,Humanitarian aid flights,233599

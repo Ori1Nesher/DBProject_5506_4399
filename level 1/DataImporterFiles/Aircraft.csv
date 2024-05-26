@@ -1,0 +1,201 @@
+Aircraft_ID,Type,Status,Base_ID
+639048,C-130J Super Hercules Shimshon,Inactive,974261
+598749,Beechcraft King Air Tzofit,Active,992439
+437486,Gulfstream G550 Shavit,Under Maintenance,606706
+562853,Gulfstream G550 Shavit,Under Maintenance,292685
+648709,F-15I Raam,Active,291791
+337146,Beechcraft King Air Tzofit,Under Maintenance,292383
+426213,IAI Searcher,Inactive,252209
+637079,AH-1 Cobra,Under Maintenance,689817
+820983,C-130J Super Hercules Shimshon,Under Maintenance,431104
+764190,UH-60 Black Hawk,Inactive,292383
+223426,AH-64 Apache,Active,444933
+138927,F-15I Raam,Active,976691
+705427,Gulfstream G550 Shavit,Active,533636
+703910,F-15 Baz,Inactive,429442
+169197,C-130 Hercules Karnaf,Inactive,260112
+894517,KC-707 Reem,Active,350768
+956887,F-15I Raam,Inactive,260112
+917826,UH-60 Black Hawk,Inactive,755012
+691640,KC-707 Reem,Under Maintenance,958503
+973067,UH-60 Black Hawk,Under Maintenance,623778
+298464,IAI Harop,Under Maintenance,115729
+114371,C-130J Super Hercules Shimshon,Active,581250
+679125,AH-64 Apache,Inactive,581250
+339972,F-16 Netz,Inactive,992439
+621573,IAI Harop,Under Maintenance,102171
+890195,IAI Eitan Heron TP,Under Maintenance,957153
+127083,IAI Heron Shoval,Active,269629
+816083,KC-707 Reem,Active,629468
+692308,Gulfstream G550 Eitam,Active,681949
+703666,IAI Searcher,Active,681949
+353384,F-16 Netz,Under Maintenance,705748
+705703,IAI Harop,Active,709042
+913030,F-15 Baz,Under Maintenance,664273
+686458,AH-1 Cobra,Active,983321
+456355,AH-64 Apache,Active,350768
+236638,IAI Harop,Under Maintenance,504652
+190284,IAI Harop,Under Maintenance,550390
+988793,Gulfstream G550 Eitam,Active,102171
+877128,IAI Eitan Heron TP,Inactive,170024
+688387,F-15 Baz,Inactive,976691
+121405,UH-60 Black Hawk,Inactive,768646
+822468,UH-60 Black Hawk,Under Maintenance,914877
+264219,F-15 Baz,Active,443486
+780914,KC-707 Reem,Inactive,858812
+399289,CH-53 Yasur,Active,852090
+853346,C-130 Hercules Karnaf,Active,746631
+114791,CH-53 Yasur,Under Maintenance,431104
+200209,Gulfstream G550 Shavit,Under Maintenance,476322
+353192,F-15 Baz,Under Maintenance,123217
+408006,F-16 Netz,Under Maintenance,999217
+454882,IAI Eitan Heron TP,Inactive,497688
+292292,IAI Searcher,Active,411416
+706837,IAI Harop,Under Maintenance,314229
+476331,IAI Harop,Under Maintenance,788270
+167158,IAI Searcher,Active,966645
+995380,AH-1 Cobra,Under Maintenance,852707
+226964,KC-707 Reem,Under Maintenance,757616
+553407,UH-60 Black Hawk,Inactive,260112
+484585,F-15 Baz,Active,246930
+618771,IAI Searcher,Active,202031
+118761,Bell 206 Sayfan,Inactive,253802
+707468,Beechcraft King Air Tzofit,Inactive,559880
+797965,IAI Harop,Inactive,336108
+946340,F-16 Netz,Under Maintenance,303187
+423860,Beechcraft King Air Tzofit,Under Maintenance,129985
+820346,AH-64 Apache,Under Maintenance,139917
+842067,IAI Heron Shoval,Active,986685
+978722,UH-60 Black Hawk,Inactive,496894
+445795,CH-53 Yasur,Inactive,478157
+353864,IAI Heron Shoval,Active,957153
+660520,KC-707 Reem,Under Maintenance,175549
+338218,IAI Heron Shoval,Inactive,705153
+232027,IAI Harop,Under Maintenance,103270
+505224,AH-1 Cobra,Active,914877
+299160,F-35I Adir,Active,194180
+818066,F-35I Adir,Under Maintenance,350768
+736015,IAI Searcher,Active,189632
+721136,C-130 Hercules Karnaf,Inactive,559880
+753082,IAI Eitan Heron TP,Active,204069
+524963,IAI Heron Shoval,Inactive,350768
+235229,IAI Eitan Heron TP,Inactive,654748
+183566,Gulfstream G550 Eitam,Under Maintenance,725511
+977264,CH-53 Yasur,Inactive,329153
+687074,Gulfstream G550 Shavit,Inactive,348268
+232918,F-16 Netz,Active,314229
+853665,AH-64 Apache,Inactive,518566
+210672,AH-1 Cobra,Inactive,371429
+693461,C-130J Super Hercules Shimshon,Under Maintenance,408514
+881804,AH-1 Cobra,Inactive,757616
+198196,Bell 206 Sayfan,Active,881057
+778742,Beechcraft King Air Tzofit,Active,664273
+222743,F-15 Baz,Under Maintenance,478157
+542665,IAI Heron Shoval,Under Maintenance,546484
+285956,IAI Heron Shoval,Under Maintenance,359439
+432209,AH-1 Cobra,Under Maintenance,194180
+948067,UH-60 Black Hawk,Under Maintenance,983321
+588306,AH-1 Cobra,Under Maintenance,506235
+895065,F-15I Raam,Inactive,996312
+479031,F-15I Raam,Under Maintenance,257447
+283936,F-35I Adir,Inactive,550390
+755188,Bell 206 Sayfan,Active,689817
+713082,C-130J Super Hercules Shimshon,Active,443819
+156454,IAI Searcher,Under Maintenance,141988
+816030,C-130J Super Hercules Shimshon,Inactive,111727
+725675,Gulfstream G550 Eitam,Under Maintenance,175549
+650961,F-15I Raam,Active,617404
+283906,Bell 206 Sayfan,Active,109381
+372016,Bell 206 Sayfan,Under Maintenance,261855
+120741,Bell 206 Sayfan,Inactive,881057
+664230,Bell 206 Sayfan,Active,908538
+143462,KC-707 Reem,Inactive,497688
+836581,Gulfstream G550 Shavit,Active,797972
+271619,F-15I Raam,Under Maintenance,327554
+280334,AH-1 Cobra,Under Maintenance,757616
+308569,AH-1 Cobra,Under Maintenance,681949
+861502,AH-1 Cobra,Inactive,181299
+811809,AH-64 Apache,Under Maintenance,139917
+982032,IAI Eitan Heron TP,Inactive,593096
+444659,CH-53 Yasur,Under Maintenance,796608
+792464,UH-60 Black Hawk,Active,705748
+428211,CH-53 Yasur,Inactive,685743
+919470,AH-64 Apache,Inactive,327554
+343647,CH-53 Yasur,Under Maintenance,852090
+516181,IAI Searcher,Inactive,333879
+274052,IAI Heron Shoval,Inactive,331442
+508500,C-130J Super Hercules Shimshon,Active,109381
+824332,IAI Searcher,Under Maintenance,327554
+794018,IAI Searcher,Under Maintenance,587911
+992147,UH-60 Black Hawk,Active,974261
+676655,Gulfstream G550 Shavit,Under Maintenance,724107
+925604,F-16 Netz,Under Maintenance,200466
+608618,F-15I Raam,Inactive,795388
+576264,Gulfstream G550 Shavit,Inactive,587911
+752888,Gulfstream G550 Shavit,Under Maintenance,957153
+275097,Gulfstream G550 Eitam,Under Maintenance,775576
+592131,Gulfstream G550 Shavit,Active,581250
+655484,C-130 Hercules Karnaf,Active,559880
+899039,C-130J Super Hercules Shimshon,Under Maintenance,478157
+676694,IAI Searcher,Inactive,476322
+256787,IAI Eitan Heron TP,Active,332935
+611781,Gulfstream G550 Eitam,Under Maintenance,497688
+177761,AH-1 Cobra,Inactive,288806
+637061,IAI Eitan Heron TP,Inactive,478157
+534721,AH-1 Cobra,Under Maintenance,257447
+647156,F-16I Sufa,Active,961352
+695072,AH-1 Cobra,Active,720987
+383553,F-16I Sufa,Inactive,924064
+955587,KC-707 Reem,Active,737607
+704947,F-16I Sufa,Under Maintenance,852090
+810741,CH-53 Yasur,Active,736548
+644403,IAI Heron Shoval,Active,212390
+373900,AH-64 Apache,Inactive,966645
+625209,IAI Harop,Inactive,976691
+931630,F-15 Baz,Under Maintenance,429442
+637466,IAI Heron Shoval,Inactive,933797
+324380,Bell 206 Sayfan,Inactive,775576
+663683,IAI Searcher,Inactive,115729
+920729,CH-53 Yasur,Under Maintenance,229523
+650172,Gulfstream G550 Eitam,Inactive,406235
+764430,AH-1 Cobra,Inactive,933797
+299764,C-130J Super Hercules Shimshon,Under Maintenance,496435
+441596,F-16I Sufa,Under Maintenance,578657
+818274,Gulfstream G550 Shavit,Inactive,408514
+286763,CH-53 Yasur,Under Maintenance,808493
+741133,IAI Eitan Heron TP,Under Maintenance,111727
+702272,Beechcraft King Air Tzofit,Under Maintenance,181299
+695975,CH-53 Yasur,Active,705748
+540691,F-15I Raam,Inactive,654748
+768896,IAI Heron Shoval,Under Maintenance,768646
+612865,F-16I Sufa,Inactive,705153
+324464,IAI Eitan Heron TP,Inactive,689817
+981676,KC-707 Reem,Active,705748
+389682,IAI Harop,Inactive,533636
+163420,IAI Searcher,Inactive,725511
+346252,F-35I Adir,Active,883318
+940958,AH-64 Apache,Active,797972
+657452,F-15 Baz,Active,686706
+514310,AH-64 Apache,Under Maintenance,292383
+589793,IAI Eitan Heron TP,Active,336108
+140564,F-15I Raam,Inactive,158484
+264135,F-15 Baz,Inactive,957153
+346776,F-15I Raam,Inactive,689817
+375965,AH-64 Apache,Under Maintenance,431104
+612267,C-130 Hercules Karnaf,Inactive,336108
+505067,UH-60 Black Hawk,Under Maintenance,103270
+600617,F-35I Adir,Under Maintenance,336108
+711599,F-35I Adir,Under Maintenance,187236
+130019,KC-707 Reem,Inactive,959378
+948460,F-35I Adir,Active,745570
+756243,Gulfstream G550 Eitam,Under Maintenance,483343
+510273,KC-707 Reem,Active,992439
+888760,F-35I Adir,Under Maintenance,737607
+910357,C-130J Super Hercules Shimshon,Active,496894
+127484,IAI Harop,Active,288806
+871804,Beechcraft King Air Tzofit,Active,686706
+409897,AH-64 Apache,Inactive,550390
+330795,F-15I Raam,Inactive,550390
+441321,UH-60 Black Hawk,Inactive,731464
+474762,F-16 Netz,Inactive,202021
+329789,F-16 Netz,Inactive,223325
