@@ -1,9 +1,17 @@
-﻿CREATE TABLE Soldier
+CREATE TABLE Soldier
 (
   Personnel_ID INT NOT NULL,
   Rank VARCHAR(25) NOT NULL,
   Name_Of_Soldier VARCHAR(25) NOT NULL,
   PRIMARY KEY (Personnel_ID)
+);
+
+CREATE TABLE Mission
+(
+  Mission_ID INT NOT NULL,
+  Date_Of_Mission DATE NOT NULL,
+  Type VARCHAR(25) NOT NULL,
+  PRIMARY KEY (Mission_ID)
 );
 
 CREATE TABLE Base
@@ -17,9 +25,11 @@ CREATE TABLE Base
 CREATE TABLE Flight
 (
   Flight_ID INT NOT NULL,
+  Mission_ID INT NOT NULL,
   Date_Of_Flight DATE NOT NULL,
   Type_Of_Flight VARCHAR(25) NOT NULL,
-  PRIMARY KEY (Flight_ID)
+  PRIMARY KEY (Flight_ID, Mission_ID),
+  FOREIGN KEY (Mission_ID) REFERENCES Mission(Mission_ID)
 );
 
 CREATE TABLE Supply
@@ -42,24 +52,13 @@ CREATE TABLE Aircraft
   FOREIGN KEY (Base_ID) REFERENCES Base(Base_ID)
 );
 
-CREATE TABLE Mission
-(
-  Mission_ID INT NOT NULL,
-  Date_Of_Mission DATE NOT NULL,
-  Type VARCHAR(25) NOT NULL,
-  Flight_ID INT NOT NULL,
-  PRIMARY KEY (Mission_ID, Flight_ID),
-  FOREIGN KEY (Flight_ID) REFERENCES Flight(Flight_ID)
-);
-
 CREATE TABLE Assigned_To
 (
   Aircraft_ID INT NOT NULL,
   Mission_ID INT NOT NULL,
-  Flight_ID INT NOT NULL,
-  PRIMARY KEY (Aircraft_ID, Mission_ID, Flight_ID),
+  PRIMARY KEY (Aircraft_ID, Mission_ID),
   FOREIGN KEY (Aircraft_ID) REFERENCES Aircraft(Aircraft_ID),
-  FOREIGN KEY (Mission_ID, Flight_ID) REFERENCES Mission(Mission_ID, Flight_ID)
+  FOREIGN KEY (Mission_ID) REFERENCES Mission(Mission_ID)
 );
 
 CREATE TABLE Flown_By
@@ -71,10 +70,6 @@ CREATE TABLE Flown_By
   FOREIGN KEY (Aircraft_ID) REFERENCES Aircraft(Aircraft_ID)
 );
 
-
-
-prompt PL/SQL Developer Export Tables for user SYS@XE
-prompt Created by yedid on יום רביעי 22 מאי 2024
 set feedback off
 set define off
 
@@ -880,11 +875,7 @@ values (8164870, 'Nevatim', 2208);
 insert into BASE (base_id, location, capacity)
 values (7247232, 'Megiddo', 8124);
 commit;
-prompt 400 records loaded
-
-set feedback on
-set define on
-prompt Done
+prompt BASE DONE
 
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5685276, 'Rav Turai', 'Shawn');
@@ -1687,13 +1678,8 @@ values (1358087, 'Turai', 'Madeline');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4465677, 'Rav Turai', 'Taye');
 commit;
+prompt SOLDIER DONE
 
-prompt PL/SQL Developer Export Tables for user SYS@XE
-prompt Created by yedid on יום רביעי 22 מאי 2024
-set feedback off
-set define off
-
-prompt Loading MISSION...
 insert into MISSION (mission_id, date_of_mission, type)
 values (5233506, to_date('06-04-2034', 'dd-mm-yyyy'), 'Anti-surface warfare');
 insert into MISSION (mission_id, date_of_mission, type)
@@ -2495,16 +2481,7 @@ values (6047578, to_date('15-08-2017', 'dd-mm-yyyy'), 'Aerial refueling');
 insert into MISSION (mission_id, date_of_mission, type)
 values (6999037, to_date('14-07-2005', 'dd-mm-yyyy'), 'Combat search and rescue');
 commit;
-prompt 400 records loaded
-
-set feedback on
-set define on
-prompt Done
-
-prompt PL/SQL Developer Export Tables for user SYS@XE
-prompt Created by yedid on יום רביעי 22 מאי 2024
-set feedback off
-set define off
+prompt MISSION DONE
 
 prompt Loading SUPPLY...
 insert into SUPPLY (supply_id, quantity, supply_name, base_id)
@@ -3308,16 +3285,7 @@ values (6677642, 282, 'Survival kits', 3032310);
 insert into SUPPLY (supply_id, quantity, supply_name, base_id)
 values (1913271, 134, 'Logistics software', 8780173);
 commit;
-prompt 400 records loaded
-
-set feedback on
-set define on
-prompt Done
-
-prompt PL/SQL Developer Export Tables for user SYS@XE
-prompt Created by yedid on יום רביעי 22 מאי 2024
-set feedback off
-set define off
+prompt SUPPLY DONE
 
 prompt Loading AIRCRAFT...
 insert into AIRCRAFT (aircraft_id, type, status, base_id)
@@ -4121,16 +4089,8 @@ values (2093064, 'Bell 206 Sayfan', 'Inactive', 6782239);
 insert into AIRCRAFT (aircraft_id, type, status, base_id)
 values (2389957, 'Gulfstream G550 Eitam', 'Active', 5791163);
 commit;
-prompt 400 records loaded
+prompt AIRCRAFT DONE
 
-set feedback on
-set define on
-prompt Done
-
-prompt PL/SQL Developer Export Tables for user SYS@XE
-prompt Created by yedid on יום רביעי 22 מאי 2024
-set feedback off
-set define off
 
 prompt Loading FLIGHT...
 insert into FLIGHT (flight_id, date_of_flight, type_of_flight, mission_id)
@@ -4934,16 +4894,7 @@ values (6935036, to_date('08-02-2016', 'dd-mm-yyyy'), 'Aerial interception', 398
 insert into FLIGHT (flight_id, date_of_flight, type_of_flight, mission_id)
 values (8391695, to_date('24-09-2032', 'dd-mm-yyyy'), 'Test flights', 5258982);
 commit;
-prompt 400 records loaded
-
-set feedback on
-set define on
-prompt Done
-
-prompt PL/SQL Developer Export Tables for user SYS@XE
-prompt Created by yedid on יום רביעי 22 מאי 2024
-set feedback off
-set define off
+prompt FLIGHT DONE
 
 prompt Loading ASSIGNED_TO...
 insert into ASSIGNED_TO (aircraft_id, mission_id)
@@ -5747,16 +5698,7 @@ values (7694911, 4069436);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (9779488, 4950151);
 commit;
-prompt 400 records loaded
-
-set feedback on
-set define on
-prompt Done
-
-prompt PL/SQL Developer Export Tables for user SYS@XE
-prompt Created by yedid on יום רביעי 22 מאי 2024
-set feedback off
-set define off
+prompt ASSIGNED_TO DONE
 
 prompt Loading FLOWN_BY...
 insert into FLOWN_BY (personnel_id, aircraft_id)
@@ -6564,6 +6506,5 @@ prompt all tables are DONE
 
 set feedback on
 set define on
-prompt Done
 
 

@@ -6,6 +6,14 @@ CREATE TABLE Soldier
   PRIMARY KEY (Personnel_ID)
 );
 
+CREATE TABLE Mission
+(
+  Mission_ID INT NOT NULL,
+  Date_Of_Mission DATE NOT NULL,
+  Type VARCHAR(25) NOT NULL,
+  PRIMARY KEY (Mission_ID)
+);
+
 CREATE TABLE Base
 (
   Base_ID INT NOT NULL,
@@ -17,9 +25,11 @@ CREATE TABLE Base
 CREATE TABLE Flight
 (
   Flight_ID INT NOT NULL,
+  Mission_ID INT NOT NULL,
   Date_Of_Flight DATE NOT NULL,
   Type_Of_Flight VARCHAR(25) NOT NULL,
-  PRIMARY KEY (Flight_ID)
+  PRIMARY KEY (Flight_ID, Mission_ID),
+  FOREIGN KEY (Mission_ID) REFERENCES Mission(Mission_ID)
 );
 
 CREATE TABLE Supply
@@ -42,24 +52,13 @@ CREATE TABLE Aircraft
   FOREIGN KEY (Base_ID) REFERENCES Base(Base_ID)
 );
 
-CREATE TABLE Mission
-(
-  Mission_ID INT NOT NULL,
-  Date_Of_Mission DATE NOT NULL,
-  Type VARCHAR(25) NOT NULL,
-  Flight_ID INT NOT NULL,
-  PRIMARY KEY (Mission_ID, Flight_ID),
-  FOREIGN KEY (Flight_ID) REFERENCES Flight(Flight_ID)
-);
-
 CREATE TABLE Assigned_To
 (
   Aircraft_ID INT NOT NULL,
   Mission_ID INT NOT NULL,
-  Flight_ID INT NOT NULL,
-  PRIMARY KEY (Aircraft_ID, Mission_ID, Flight_ID),
+  PRIMARY KEY (Aircraft_ID, Mission_ID),
   FOREIGN KEY (Aircraft_ID) REFERENCES Aircraft(Aircraft_ID),
-  FOREIGN KEY (Mission_ID, Flight_ID) REFERENCES Mission(Mission_ID, Flight_ID)
+  FOREIGN KEY (Mission_ID) REFERENCES Mission(Mission_ID)
 );
 
 CREATE TABLE Flown_By
