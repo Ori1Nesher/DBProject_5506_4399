@@ -1,0 +1,6 @@
+DELETE FROM Supply
+WHERE Base_ID IN (
+    SELECT Base_ID
+    FROM Aircraft
+    WHERE Status = 'Under Maintenance'
+)

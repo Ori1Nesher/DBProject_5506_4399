@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2750
+Password=2453
 Database=
 DateFormat=
 CommitCount=0
@@ -12,7 +12,7 @@ CommitDelay=0
 InitScript=
 
 [Table]
-Owner=SYS
+Owner=SYSTEM
 Name=FLIGHT
 Count=400
 
@@ -34,7 +34,7 @@ Master=
 Name=TYPE_OF_FLIGHT
 Type=VARCHAR2
 Size=25
-Data=List('Training flights', 'Surveillance flights', 'Medical evacuation flights', 'VIP transport flights', 'Parachuting missions', 'Calibration flights', 'Aerial photography', 'Combat air patrols', 'Maritime patrols', 'Aerial interception', 'Test flights', 'Cargo flights', 'Humanitarian aid flights', 'Non-combat reconnaissance', 'Weather reconnaissance', 'Tactical transport flights', 'Aero-medical transport', 'Logistics support flights', 'Pilot proficiency flights', 'Aircraft ferrying flights')
+Data=List('Training flights', 'Surveillance flights', 'Combat flights',  'Non-combat reconnaissance')
 Master=
 
 [Record]

@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2535
+Password=2865
 Database=
 DateFormat=
 CommitCount=0
@@ -12,7 +12,7 @@ CommitDelay=0
 InitScript=
 
 [Table]
-Owner=SYS
+Owner=SYSTEM
 Name=MISSION
 Count=400
 
@@ -34,6 +34,6 @@ Master=
 Name=TYPE
 Type=VARCHAR2
 Size=25
-Data=List('Air superiority', 'Air interdiction', 'Close air support', 'Strategic bombing', 'Tactical bombing', 'Air reconnaissance', 'Electronic warfare', 'Airlift operations', 'Aerial refueling', 'Search and rescue', 'Combat search and rescue', 'Counter-terrorism operations', 'Anti-surface warfare', 'Anti-submarine warfare', 'Airborne early warning and control', 'Suppression of enemy air defenses', 'Psychological operations', 'Humanitarian aid missions', 'Training and simulation', 'VIP transport')
+Data=List('Air superiority', 'Air interdiction', 'Close air support', 'Strategic bombing', 'Tactical bombing')
 Master=
 

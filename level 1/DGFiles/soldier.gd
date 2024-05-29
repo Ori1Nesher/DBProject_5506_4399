@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2383
+Password=2901
 Database=
 DateFormat=
 CommitCount=0
@@ -12,7 +12,7 @@ CommitDelay=0
 InitScript=
 
 [Table]
-Owner=SYS
+Owner=SYSTEM
 Name=SOLDIER
 Count=400
 
@@ -27,7 +27,7 @@ Master=
 Name=RANK
 Type=VARCHAR2
 Size=25
-Data=List('Turai', 'Rav Turai', 'Samal', 'Samal Rishon', 'Rav Samal', 'Rav Samal Rishon', 'Rav Samal Mitkadem', 'Sagam', 'Segen', 'Segen Rishon', 'Seren', 'Rav Seren', 'Sgan Aluf', 'Aluf Mishne', 'Aluf', 'Rav Aluf')
+Data=List( 'Seren', 'Rav Seren', 'Sgan Aluf', 'Aluf Mishne')
 Master=
 
 [Record]

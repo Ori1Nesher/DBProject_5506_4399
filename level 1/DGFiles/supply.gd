@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2728
+Password=2217
 Database=
 DateFormat=
 CommitCount=0
@@ -12,7 +12,7 @@ CommitDelay=0
 InitScript=
 
 [Table]
-Owner=SYS
+Owner=SYSTEM
 Name=SUPPLY
 Count=400
 
@@ -34,7 +34,7 @@ Master=
 Name=SUPPLY_NAME
 Type=VARCHAR2
 Size=25
-Data=List('Fuel', 'Ammunition', 'Missiles', 'Bombs', 'Aircraft spare parts', 'Engines', 'Electronic components', 'Communication equipment', 'Medical supplies', 'Food rations', 'Water supplies', 'Flight suits', 'Protective gear', 'Navigation equipment', 'Maintenance tools', 'Ground support equipment', 'Survival kits', 'Parachutes', 'Flight manuals', 'Logistics software')
+Data=List('Fuel', 'Ammunition', 'Missiles', 'Bombs', 'Aircraft spare parts', 'Engines')
 Master=
 
 [Record]

@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2765
+Password=2119
 Database=
 DateFormat=
 CommitCount=0
@@ -12,7 +12,7 @@ CommitDelay=0
 InitScript=
 
 [Table]
-Owner=SYS
+Owner=SYSTEM
 Name=BASE
 Count=400
 
@@ -27,7 +27,7 @@ Master=
 Name=LOCATION
 Type=VARCHAR2
 Size=25
-Data=List('Tel Nof', 'Ramat David', 'Hatzor', 'Nevatim', 'Ovda', 'Hatzerim', 'Palmachim', 'Sde Dov', 'Ramon', 'Ein Shemer', 'Kfar Saba', 'Yokneam', 'Be'er Sheva', 'Haifa', 'Eilat', 'Megiddo', 'Rosh Pina', 'Mitzpe Ramon', 'Har Keren', 'Mishmar HaEmek')
+Data=List(North, South)
 Master=
 
 [Record]
