@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2222
+Password=2375
 Database=
 DateFormat=
 CommitCount=0
@@ -27,7 +27,7 @@ Master=
 Name=TYPE
 Type=VARCHAR2
 Size=25
-Data=List('F-35I Adir', 'F-16I Sufa', 'F-15I Raam', 'F-15 Baz')
+Data=List()
 Master=
 
 [Record]

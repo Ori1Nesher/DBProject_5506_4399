@@ -27,7 +27,7 @@ Master=
 Name=LOCATION
 Type=VARCHAR2
 Size=25
-Data=List(North, South)
+Data=List()
 Master=
 
 [Record]
