@@ -39,14 +39,15 @@ ORDER BY
 
 -- Count Flights per Mission Type:
 SELECT 
-        m.Type AS Mission_Type,
+    m.Mission_ID,
+    m.Type AS Mission_Type,
     COUNT(f.Flight_ID) AS Number_Of_Flights
 FROM 
     Mission m
 LEFT JOIN 
     Flight f ON m.Mission_ID = f.Mission_ID
 GROUP BY 
-    m.Type
+    m.Mission_ID, m.Type
 ORDER BY 
     Number_Of_Flights DESC;
 
@@ -69,42 +70,20 @@ WHERE
 ORDER BY 
     m.Date_Of_Mission, m.Type, a.Type;
 
---The next flight and all flights of the same type that did not occur in even-numbered months.
-WITH Next_Flight AS (
-    SELECT 
-        f.Flight_ID,
-        f.Mission_ID,
-        f.Date_Of_Flight,
-        f.Type_Of_Flight
-    FROM 
-        Flight f
-    WHERE 
-        f.Date_Of_Flight = (SELECT MIN(f1.Date_Of_Flight) 
-                            FROM Flight f1 
-                            WHERE f1.Date_Of_Flight > SYSDATE)
-)
+-- List Missions with Number of Flights and Mission Type:
 SELECT 
-    nf.Flight_ID,
-    nf.Mission_ID,
-    nf.Date_Of_Flight,
-    nf.Type_Of_Flight
+    m.Mission_ID,
+    m.Type AS Mission_Type,
+    COUNT(f.Flight_ID) AS Number_Of_Flights
 FROM 
-    Next_Flight nf
-UNION ALL
-SELECT 
-    f.Flight_ID,
-    f.Mission_ID,
-    f.Date_Of_Flight,
-    f.Type_Of_Flight
-FROM 
-    Flight f
-WHERE 
-    f.Type_Of_Flight = (SELECT nf.Type_Of_Flight FROM Next_Flight nf)
+    Mission m
+LEFT JOIN 
+    Flight f ON m.Mission_ID = f.Mission_ID
+GROUP BY 
+    m.Mission_ID, m.Type
 ORDER BY 
-    Date_Of_Flight;
-    
-    
-    
+    Number_Of_Flights DESC;
+
 -- Update Aircraft Status for Missions in the Next Year:
 UPDATE Aircraft
 SET Status = 'preparation'
