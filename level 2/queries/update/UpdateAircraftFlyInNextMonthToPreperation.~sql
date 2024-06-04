@@ -7,5 +7,3 @@ WHERE Aircraft_ID IN (
     JOIN Mission ON Assigned_To.Mission_ID = Mission.Mission_ID
     WHERE Mission.Date_Of_Mission BETWEEN SYSDATE AND ADD_MONTHS(SYSDATE, 12)
 );
-
-commit
