@@ -1,5 +1,5 @@
 ﻿prompt PL/SQL Developer Export Tables for user SYSTEM@XE
-prompt Created by orinesher on Thursday, May 30, 2024
+prompt Created by orinesher on Thursday, July 11, 2024
 set feedback off
 set define off
 
@@ -117,17 +117,17 @@ prompt Loading BASE...
 insert into BASE (base_id, location, capacity)
 values (5858610, 'South', 9692);
 insert into BASE (base_id, location, capacity)
-values (6976065, 'South', 5604);
+values (6976065, 'South', 5654);
 insert into BASE (base_id, location, capacity)
 values (9726685, 'North', 3388);
 insert into BASE (base_id, location, capacity)
-values (9797811, 'South', 2387);
+values (9797811, 'South', 2437);
 insert into BASE (base_id, location, capacity)
 values (2705942, 'South', 3779);
 insert into BASE (base_id, location, capacity)
 values (2804121, 'South', 2950);
 insert into BASE (base_id, location, capacity)
-values (7292579, 'North', 2795);
+values (7292579, 'North', 2845);
 insert into BASE (base_id, location, capacity)
 values (5727542, 'South', 7696);
 insert into BASE (base_id, location, capacity)
@@ -141,7 +141,7 @@ values (9184050, 'North', 3108);
 insert into BASE (base_id, location, capacity)
 values (4457895, 'South', 3152);
 insert into BASE (base_id, location, capacity)
-values (1453003, 'North', 7546);
+values (1453003, 'North', 7596);
 insert into BASE (base_id, location, capacity)
 values (9569121, 'North', 6199);
 insert into BASE (base_id, location, capacity)
@@ -165,7 +165,7 @@ values (3395577, 'South', 5526);
 insert into BASE (base_id, location, capacity)
 values (6653592, 'North', 9059);
 insert into BASE (base_id, location, capacity)
-values (3812988, 'South', 5611);
+values (3812988, 'South', 5661);
 insert into BASE (base_id, location, capacity)
 values (4527562, 'North', 3175);
 insert into BASE (base_id, location, capacity)
@@ -177,7 +177,7 @@ values (5033344, 'South', 8370);
 insert into BASE (base_id, location, capacity)
 values (3382312, 'North', 5660);
 insert into BASE (base_id, location, capacity)
-values (1840828, 'South', 3338);
+values (1840828, 'South', 3388);
 insert into BASE (base_id, location, capacity)
 values (8787104, 'South', 6715);
 insert into BASE (base_id, location, capacity)
@@ -185,9 +185,9 @@ values (2809855, 'North', 5086);
 insert into BASE (base_id, location, capacity)
 values (5839283, 'North', 2009);
 insert into BASE (base_id, location, capacity)
-values (8357490, 'North', 9748);
+values (8357490, 'North', 9798);
 insert into BASE (base_id, location, capacity)
-values (7131970, 'North', 6864);
+values (7131970, 'North', 6914);
 insert into BASE (base_id, location, capacity)
 values (1771510, 'North', 7336);
 insert into BASE (base_id, location, capacity)
@@ -197,9 +197,9 @@ values (5303110, 'North', 5539);
 insert into BASE (base_id, location, capacity)
 values (7481871, 'North', 7382);
 insert into BASE (base_id, location, capacity)
-values (3345502, 'South', 6102);
+values (3345502, 'South', 6152);
 insert into BASE (base_id, location, capacity)
-values (1313329, 'South', 8209);
+values (1313329, 'South', 8259);
 insert into BASE (base_id, location, capacity)
 values (6764446, 'South', 2178);
 insert into BASE (base_id, location, capacity)
@@ -207,19 +207,19 @@ values (8024073, 'North', 3210);
 insert into BASE (base_id, location, capacity)
 values (5006318, 'North', 8095);
 insert into BASE (base_id, location, capacity)
-values (5272396, 'South', 7909);
+values (5272396, 'South', 7959);
 insert into BASE (base_id, location, capacity)
-values (9895475, 'North', 6909);
+values (9895475, 'North', 6959);
 insert into BASE (base_id, location, capacity)
 values (3625535, 'North', 7316);
 insert into BASE (base_id, location, capacity)
-values (3857827, 'North', 8351);
+values (3857827, 'North', 8401);
 insert into BASE (base_id, location, capacity)
 values (4989763, 'South', 2555);
 insert into BASE (base_id, location, capacity)
-values (1984347, 'South', 8796);
+values (1984347, 'South', 8846);
 insert into BASE (base_id, location, capacity)
-values (2389852, 'South', 3626);
+values (2389852, 'South', 3676);
 insert into BASE (base_id, location, capacity)
 values (4689005, 'North', 6248);
 insert into BASE (base_id, location, capacity)
@@ -231,17 +231,17 @@ values (1301115, 'North', 6782);
 insert into BASE (base_id, location, capacity)
 values (7893921, 'North', 6062);
 insert into BASE (base_id, location, capacity)
-values (7495137, 'South', 2532);
+values (7495137, 'South', 2582);
 insert into BASE (base_id, location, capacity)
 values (7365327, 'South', 4879);
 insert into BASE (base_id, location, capacity)
 values (9407813, 'South', 2331);
 insert into BASE (base_id, location, capacity)
-values (8896599, 'South', 9189);
+values (8896599, 'South', 9239);
 insert into BASE (base_id, location, capacity)
-values (2245431, 'South', 2441);
+values (2245431, 'South', 2491);
 insert into BASE (base_id, location, capacity)
-values (7028691, 'North', 9630);
+values (7028691, 'North', 9680);
 insert into BASE (base_id, location, capacity)
 values (2249892, 'South', 7005);
 insert into BASE (base_id, location, capacity)
@@ -249,9 +249,9 @@ values (6971394, 'North', 7146);
 insert into BASE (base_id, location, capacity)
 values (2708504, 'South', 6898);
 insert into BASE (base_id, location, capacity)
-values (8005820, 'South', 2939);
+values (8005820, 'South', 2989);
 insert into BASE (base_id, location, capacity)
-values (8482110, 'South', 2672);
+values (8482110, 'South', 2722);
 insert into BASE (base_id, location, capacity)
 values (5599498, 'South', 2500);
 insert into BASE (base_id, location, capacity)
@@ -261,7 +261,7 @@ values (2501279, 'North', 3442);
 insert into BASE (base_id, location, capacity)
 values (9896801, 'South', 3628);
 insert into BASE (base_id, location, capacity)
-values (6752205, 'South', 6829);
+values (6752205, 'South', 6879);
 insert into BASE (base_id, location, capacity)
 values (1489935, 'South', 4770);
 insert into BASE (base_id, location, capacity)
@@ -273,7 +273,7 @@ values (3741554, 'South', 6842);
 insert into BASE (base_id, location, capacity)
 values (3394388, 'South', 5572);
 insert into BASE (base_id, location, capacity)
-values (3596329, 'South', 6879);
+values (3596329, 'South', 6929);
 insert into BASE (base_id, location, capacity)
 values (6938326, 'North', 8659);
 insert into BASE (base_id, location, capacity)
@@ -281,7 +281,7 @@ values (6528989, 'North', 3798);
 insert into BASE (base_id, location, capacity)
 values (5471534, 'South', 9200);
 insert into BASE (base_id, location, capacity)
-values (4409836, 'North', 8273);
+values (4409836, 'North', 8323);
 insert into BASE (base_id, location, capacity)
 values (2446905, 'North', 9989);
 insert into BASE (base_id, location, capacity)
@@ -293,9 +293,9 @@ values (4019241, 'South', 6216);
 insert into BASE (base_id, location, capacity)
 values (5492882, 'North', 4927);
 insert into BASE (base_id, location, capacity)
-values (4023885, 'North', 2841);
+values (4023885, 'North', 2891);
 insert into BASE (base_id, location, capacity)
-values (3910956, 'South', 3247);
+values (3910956, 'South', 3297);
 insert into BASE (base_id, location, capacity)
 values (5764337, 'North', 8102);
 insert into BASE (base_id, location, capacity)
@@ -303,19 +303,19 @@ values (3596212, 'South', 7112);
 insert into BASE (base_id, location, capacity)
 values (1653748, 'South', 9472);
 insert into BASE (base_id, location, capacity)
-values (2211654, 'South', 6939);
+values (2211654, 'South', 6989);
 insert into BASE (base_id, location, capacity)
 values (3880995, 'North', 3076);
 insert into BASE (base_id, location, capacity)
 values (7813716, 'North', 9036);
 insert into BASE (base_id, location, capacity)
-values (7499865, 'North', 3986);
+values (7499865, 'North', 4036);
 insert into BASE (base_id, location, capacity)
-values (2607420, 'North', 6566);
+values (2607420, 'North', 6616);
 insert into BASE (base_id, location, capacity)
 values (3751711, 'South', 9052);
 insert into BASE (base_id, location, capacity)
-values (7245252, 'South', 4070);
+values (7245252, 'South', 4120);
 insert into BASE (base_id, location, capacity)
 values (2274538, 'South', 3476);
 insert into BASE (base_id, location, capacity)
@@ -323,7 +323,7 @@ values (8164017, 'South', 3635);
 insert into BASE (base_id, location, capacity)
 values (5356352, 'South', 5944);
 insert into BASE (base_id, location, capacity)
-values (3564288, 'South', 2815);
+values (3564288, 'South', 2865);
 insert into BASE (base_id, location, capacity)
 values (1184562, 'North', 2141);
 insert into BASE (base_id, location, capacity)
@@ -343,9 +343,9 @@ values (3656169, 'South', 5276);
 insert into BASE (base_id, location, capacity)
 values (8006597, 'North', 5238);
 insert into BASE (base_id, location, capacity)
-values (9609769, 'South', 9551);
+values (9609769, 'South', 9601);
 insert into BASE (base_id, location, capacity)
-values (4216640, 'North', 6198);
+values (4216640, 'North', 6248);
 insert into BASE (base_id, location, capacity)
 values (4573516, 'North', 6420);
 insert into BASE (base_id, location, capacity)
@@ -357,7 +357,7 @@ values (7802543, 'North', 4541);
 insert into BASE (base_id, location, capacity)
 values (2649426, 'North', 5062);
 insert into BASE (base_id, location, capacity)
-values (6644408, 'South', 6871);
+values (6644408, 'South', 6921);
 insert into BASE (base_id, location, capacity)
 values (2341058, 'North', 5677);
 insert into BASE (base_id, location, capacity)
@@ -365,21 +365,21 @@ values (9740737, 'South', 2407);
 insert into BASE (base_id, location, capacity)
 values (5957349, 'North', 2086);
 insert into BASE (base_id, location, capacity)
-values (3881087, 'South', 4468);
+values (3881087, 'South', 4518);
 insert into BASE (base_id, location, capacity)
 values (4692725, 'North', 4525);
 insert into BASE (base_id, location, capacity)
 values (5740636, 'South', 2188);
 insert into BASE (base_id, location, capacity)
-values (4715516, 'South', 9405);
+values (4715516, 'South', 9455);
 insert into BASE (base_id, location, capacity)
-values (8887579, 'South', 9436);
+values (8887579, 'South', 9486);
 insert into BASE (base_id, location, capacity)
 values (3449727, 'North', 4651);
 insert into BASE (base_id, location, capacity)
 values (3682201, 'North', 9797);
 insert into BASE (base_id, location, capacity)
-values (9675914, 'South', 8048);
+values (9675914, 'South', 8098);
 insert into BASE (base_id, location, capacity)
 values (7486203, 'North', 8921);
 insert into BASE (base_id, location, capacity)
@@ -387,7 +387,7 @@ values (5648560, 'North', 6301);
 insert into BASE (base_id, location, capacity)
 values (1230754, 'South', 6211);
 insert into BASE (base_id, location, capacity)
-values (5162677, 'North', 9573);
+values (5162677, 'North', 9623);
 insert into BASE (base_id, location, capacity)
 values (9310665, 'North', 9775);
 insert into BASE (base_id, location, capacity)
@@ -395,11 +395,11 @@ values (1370555, 'North', 9251);
 insert into BASE (base_id, location, capacity)
 values (3292604, 'South', 4389);
 insert into BASE (base_id, location, capacity)
-values (4213017, 'South', 2417);
+values (4213017, 'South', 2467);
 insert into BASE (base_id, location, capacity)
-values (9859836, 'North', 8305);
+values (9859836, 'North', 8355);
 insert into BASE (base_id, location, capacity)
-values (1150872, 'South', 5119);
+values (1150872, 'South', 5169);
 insert into BASE (base_id, location, capacity)
 values (4077115, 'North', 7637);
 insert into BASE (base_id, location, capacity)
@@ -407,7 +407,7 @@ values (8523816, 'South', 6828);
 insert into BASE (base_id, location, capacity)
 values (5259525, 'South', 3312);
 insert into BASE (base_id, location, capacity)
-values (1888478, 'South', 4810);
+values (1888478, 'South', 4860);
 insert into BASE (base_id, location, capacity)
 values (4780856, 'South', 7595);
 insert into BASE (base_id, location, capacity)
@@ -417,17 +417,17 @@ values (5872898, 'South', 7547);
 insert into BASE (base_id, location, capacity)
 values (6835215, 'South', 3717);
 insert into BASE (base_id, location, capacity)
-values (5159434, 'North', 9948);
+values (5159434, 'North', 9998);
 insert into BASE (base_id, location, capacity)
 values (2206902, 'South', 2880);
 insert into BASE (base_id, location, capacity)
 values (6150145, 'South', 6698);
 insert into BASE (base_id, location, capacity)
-values (2492108, 'South', 5303);
+values (2492108, 'South', 5353);
 insert into BASE (base_id, location, capacity)
 values (8502657, 'South', 5976);
 insert into BASE (base_id, location, capacity)
-values (2882459, 'North', 6839);
+values (2882459, 'North', 6889);
 insert into BASE (base_id, location, capacity)
 values (5358033, 'North', 9056);
 insert into BASE (base_id, location, capacity)
@@ -445,19 +445,19 @@ values (1962449, 'South', 5509);
 insert into BASE (base_id, location, capacity)
 values (9794238, 'North', 3717);
 insert into BASE (base_id, location, capacity)
-values (1627194, 'North', 9116);
+values (1627194, 'North', 9166);
 insert into BASE (base_id, location, capacity)
-values (2758821, 'North', 8353);
+values (2758821, 'North', 8403);
 insert into BASE (base_id, location, capacity)
 values (1815039, 'South', 2032);
 insert into BASE (base_id, location, capacity)
-values (3385937, 'North', 6655);
+values (3385937, 'North', 6705);
 insert into BASE (base_id, location, capacity)
-values (2751730, 'North', 9090);
+values (2751730, 'North', 9140);
 insert into BASE (base_id, location, capacity)
 values (4987898, 'South', 4132);
 insert into BASE (base_id, location, capacity)
-values (8627871, 'South', 4352);
+values (8627871, 'South', 4402);
 insert into BASE (base_id, location, capacity)
 values (3134210, 'South', 5567);
 insert into BASE (base_id, location, capacity)
@@ -483,11 +483,11 @@ values (2569477, 'South', 5792);
 insert into BASE (base_id, location, capacity)
 values (4194531, 'North', 4538);
 insert into BASE (base_id, location, capacity)
-values (3617094, 'South', 4197);
+values (3617094, 'South', 4247);
 insert into BASE (base_id, location, capacity)
 values (4888873, 'South', 8497);
 insert into BASE (base_id, location, capacity)
-values (4211396, 'South', 8733);
+values (4211396, 'South', 8783);
 insert into BASE (base_id, location, capacity)
 values (8836351, 'North', 3614);
 insert into BASE (base_id, location, capacity)
@@ -501,11 +501,11 @@ values (5994133, 'South', 6567);
 insert into BASE (base_id, location, capacity)
 values (6058922, 'South', 6178);
 insert into BASE (base_id, location, capacity)
-values (6475597, 'North', 9608);
+values (6475597, 'North', 9658);
 insert into BASE (base_id, location, capacity)
 values (4822423, 'North', 6250);
 insert into BASE (base_id, location, capacity)
-values (5835743, 'North', 7152);
+values (5835743, 'North', 7202);
 insert into BASE (base_id, location, capacity)
 values (7385989, 'South', 4318);
 insert into BASE (base_id, location, capacity)
@@ -513,29 +513,29 @@ values (1793337, 'South', 9969);
 insert into BASE (base_id, location, capacity)
 values (6847949, 'South', 7193);
 insert into BASE (base_id, location, capacity)
-values (7127882, 'North', 3824);
+values (7127882, 'North', 3874);
 insert into BASE (base_id, location, capacity)
-values (3943663, 'South', 2942);
+values (3943663, 'South', 2992);
 insert into BASE (base_id, location, capacity)
-values (1082097, 'North', 5071);
+values (1082097, 'North', 5121);
 insert into BASE (base_id, location, capacity)
 values (7899860, 'South', 9292);
 insert into BASE (base_id, location, capacity)
 values (5269837, 'North', 7272);
 insert into BASE (base_id, location, capacity)
-values (3329277, 'South', 2601);
+values (3329277, 'South', 2651);
 insert into BASE (base_id, location, capacity)
 values (1043200, 'South', 2943);
 insert into BASE (base_id, location, capacity)
 values (6257519, 'South', 8816);
 insert into BASE (base_id, location, capacity)
-values (3183683, 'South', 7418);
+values (3183683, 'South', 7468);
 insert into BASE (base_id, location, capacity)
 values (2265653, 'South', 6006);
 insert into BASE (base_id, location, capacity)
 values (3232451, 'South', 4052);
 insert into BASE (base_id, location, capacity)
-values (2006475, 'South', 4480);
+values (2006475, 'South', 4530);
 insert into BASE (base_id, location, capacity)
 values (6076546, 'South', 6028);
 insert into BASE (base_id, location, capacity)
@@ -547,7 +547,7 @@ values (5918165, 'South', 3780);
 insert into BASE (base_id, location, capacity)
 values (1340571, 'South', 7040);
 insert into BASE (base_id, location, capacity)
-values (5347409, 'South', 8957);
+values (5347409, 'South', 9007);
 insert into BASE (base_id, location, capacity)
 values (8161495, 'North', 4064);
 insert into BASE (base_id, location, capacity)
@@ -557,11 +557,11 @@ values (8106200, 'South', 2751);
 insert into BASE (base_id, location, capacity)
 values (4317667, 'South', 8633);
 insert into BASE (base_id, location, capacity)
-values (9194052, 'South', 4630);
+values (9194052, 'South', 4680);
 insert into BASE (base_id, location, capacity)
-values (5201831, 'South', 6411);
+values (5201831, 'South', 6461);
 insert into BASE (base_id, location, capacity)
-values (4214407, 'North', 3976);
+values (4214407, 'North', 4026);
 insert into BASE (base_id, location, capacity)
 values (4552529, 'South', 2405);
 insert into BASE (base_id, location, capacity)
@@ -569,7 +569,7 @@ values (3926146, 'South', 4111);
 insert into BASE (base_id, location, capacity)
 values (6383330, 'North', 4663);
 insert into BASE (base_id, location, capacity)
-values (8623493, 'North', 4312);
+values (8623493, 'North', 4362);
 insert into BASE (base_id, location, capacity)
 values (8002559, 'North', 7217);
 insert into BASE (base_id, location, capacity)
@@ -583,9 +583,9 @@ values (2561075, 'North', 9440);
 insert into BASE (base_id, location, capacity)
 values (8829232, 'South', 4330);
 insert into BASE (base_id, location, capacity)
-values (3414667, 'South', 6023);
+values (3414667, 'South', 6073);
 insert into BASE (base_id, location, capacity)
-values (1621944, 'North', 9891);
+values (1621944, 'North', 9941);
 insert into BASE (base_id, location, capacity)
 values (5603515, 'South', 5419);
 insert into BASE (base_id, location, capacity)
@@ -593,7 +593,7 @@ values (9621508, 'South', 8753);
 insert into BASE (base_id, location, capacity)
 values (6782058, 'North', 8884);
 insert into BASE (base_id, location, capacity)
-values (6522233, 'South', 8513);
+values (6522233, 'South', 8563);
 insert into BASE (base_id, location, capacity)
 values (2207468, 'South', 5579);
 insert into BASE (base_id, location, capacity)
@@ -625,9 +625,9 @@ values (8127586, 'South', 3494);
 insert into BASE (base_id, location, capacity)
 values (7672225, 'North', 4572);
 insert into BASE (base_id, location, capacity)
-values (7094849, 'South', 7336);
+values (7094849, 'South', 7386);
 insert into BASE (base_id, location, capacity)
-values (9488116, 'South', 4615);
+values (9488116, 'South', 4665);
 insert into BASE (base_id, location, capacity)
 values (4736425, 'South', 6792);
 insert into BASE (base_id, location, capacity)
@@ -639,7 +639,7 @@ values (4960965, 'North', 9901);
 insert into BASE (base_id, location, capacity)
 values (2100001, 'South', 3401);
 insert into BASE (base_id, location, capacity)
-values (9828531, 'North', 6479);
+values (9828531, 'North', 6529);
 insert into BASE (base_id, location, capacity)
 values (9654575, 'North', 2101);
 insert into BASE (base_id, location, capacity)
@@ -651,7 +651,7 @@ values (2981171, 'South', 2745);
 insert into BASE (base_id, location, capacity)
 values (5665760, 'North', 7577);
 insert into BASE (base_id, location, capacity)
-values (3027847, 'North', 6038);
+values (3027847, 'North', 6088);
 insert into BASE (base_id, location, capacity)
 values (5776999, 'South', 7765);
 insert into BASE (base_id, location, capacity)
@@ -669,7 +669,7 @@ values (8868197, 'South', 8268);
 insert into BASE (base_id, location, capacity)
 values (7603338, 'North', 2786);
 insert into BASE (base_id, location, capacity)
-values (3526562, 'South', 4111);
+values (3526562, 'South', 4161);
 insert into BASE (base_id, location, capacity)
 values (5105795, 'North', 8982);
 insert into BASE (base_id, location, capacity)
@@ -683,7 +683,7 @@ values (1360966, 'North', 2776);
 insert into BASE (base_id, location, capacity)
 values (8802505, 'North', 4372);
 insert into BASE (base_id, location, capacity)
-values (5344218, 'South', 3658);
+values (5344218, 'South', 3708);
 insert into BASE (base_id, location, capacity)
 values (8459654, 'North', 3702);
 insert into BASE (base_id, location, capacity)
@@ -711,13 +711,13 @@ values (7953959, 'North', 3709);
 insert into BASE (base_id, location, capacity)
 values (4449294, 'North', 7245);
 insert into BASE (base_id, location, capacity)
-values (9188851, 'North', 3003);
+values (9188851, 'North', 3053);
 insert into BASE (base_id, location, capacity)
 values (6960977, 'South', 2324);
 insert into BASE (base_id, location, capacity)
 values (7938820, 'South', 8606);
 insert into BASE (base_id, location, capacity)
-values (9453155, 'North', 5169);
+values (9453155, 'North', 5219);
 insert into BASE (base_id, location, capacity)
 values (8371346, 'North', 5635);
 insert into BASE (base_id, location, capacity)
@@ -725,7 +725,7 @@ values (4867157, 'North', 5712);
 insert into BASE (base_id, location, capacity)
 values (8269150, 'North', 7501);
 insert into BASE (base_id, location, capacity)
-values (1783223, 'North', 9394);
+values (1783223, 'North', 9444);
 insert into BASE (base_id, location, capacity)
 values (8173179, 'South', 5487);
 insert into BASE (base_id, location, capacity)
@@ -735,9 +735,9 @@ values (4078084, 'North', 4089);
 insert into BASE (base_id, location, capacity)
 values (9671100, 'North', 8247);
 insert into BASE (base_id, location, capacity)
-values (7494784, 'North', 5752);
+values (7494784, 'North', 5802);
 insert into BASE (base_id, location, capacity)
-values (4693621, 'South', 6667);
+values (4693621, 'South', 6717);
 insert into BASE (base_id, location, capacity)
 values (9367537, 'South', 3184);
 insert into BASE (base_id, location, capacity)
@@ -749,9 +749,9 @@ values (2848346, 'North', 6843);
 insert into BASE (base_id, location, capacity)
 values (4254601, 'South', 7419);
 insert into BASE (base_id, location, capacity)
-values (7985300, 'South', 6255);
+values (7985300, 'South', 6305);
 insert into BASE (base_id, location, capacity)
-values (2667321, 'North', 7490);
+values (2667321, 'North', 7540);
 insert into BASE (base_id, location, capacity)
 values (1598446, 'South', 7064);
 insert into BASE (base_id, location, capacity)
@@ -759,7 +759,7 @@ values (2461106, 'South', 6005);
 insert into BASE (base_id, location, capacity)
 values (1921039, 'North', 2123);
 insert into BASE (base_id, location, capacity)
-values (1200517, 'North', 5388);
+values (1200517, 'North', 5438);
 insert into BASE (base_id, location, capacity)
 values (4859469, 'North', 8143);
 insert into BASE (base_id, location, capacity)
@@ -787,7 +787,7 @@ values (9447081, 'South', 6562);
 insert into BASE (base_id, location, capacity)
 values (7996821, 'North', 2336);
 insert into BASE (base_id, location, capacity)
-values (1550393, 'South', 8546);
+values (1550393, 'South', 8596);
 insert into BASE (base_id, location, capacity)
 values (3409378, 'North', 9745);
 insert into BASE (base_id, location, capacity)
@@ -799,9 +799,9 @@ values (5411817, 'North', 7447);
 insert into BASE (base_id, location, capacity)
 values (3973174, 'South', 4982);
 insert into BASE (base_id, location, capacity)
-values (3598298, 'North', 9548);
+values (3598298, 'North', 9598);
 insert into BASE (base_id, location, capacity)
-values (4173329, 'South', 8591);
+values (4173329, 'South', 8641);
 insert into BASE (base_id, location, capacity)
 values (4364915, 'South', 7636);
 insert into BASE (base_id, location, capacity)
@@ -837,23 +837,23 @@ values (8242911, 'South', 6603);
 insert into BASE (base_id, location, capacity)
 values (1678848, 'South', 8004);
 insert into BASE (base_id, location, capacity)
-values (3894143, 'South', 7219);
+values (3894143, 'South', 7269);
 insert into BASE (base_id, location, capacity)
 values (7588771, 'North', 3922);
 insert into BASE (base_id, location, capacity)
 values (2435008, 'South', 8098);
 insert into BASE (base_id, location, capacity)
-values (5895010, 'North', 8792);
+values (5895010, 'North', 8842);
 insert into BASE (base_id, location, capacity)
 values (1157014, 'North', 2029);
 insert into BASE (base_id, location, capacity)
-values (8701909, 'North', 7227);
+values (8701909, 'North', 7277);
 insert into BASE (base_id, location, capacity)
-values (1227023, 'South', 4363);
+values (1227023, 'South', 4413);
 insert into BASE (base_id, location, capacity)
-values (6632196, 'North', 5653);
+values (6632196, 'North', 5703);
 insert into BASE (base_id, location, capacity)
-values (8280458, 'South', 2719);
+values (8280458, 'South', 2769);
 insert into BASE (base_id, location, capacity)
 values (6960681, 'North', 2120);
 insert into BASE (base_id, location, capacity)
@@ -867,9 +867,9 @@ values (9417924, 'North', 9962);
 insert into BASE (base_id, location, capacity)
 values (6849552, 'South', 5439);
 insert into BASE (base_id, location, capacity)
-values (4253827, 'North', 7115);
+values (4253827, 'North', 7165);
 insert into BASE (base_id, location, capacity)
-values (7783391, 'North', 3108);
+values (7783391, 'North', 3158);
 insert into BASE (base_id, location, capacity)
 values (2627121, 'South', 8879);
 insert into BASE (base_id, location, capacity)
@@ -883,11 +883,11 @@ values (2391242, 'South', 8304);
 insert into BASE (base_id, location, capacity)
 values (2310589, 'North', 2321);
 insert into BASE (base_id, location, capacity)
-values (1685902, 'South', 5635);
+values (1685902, 'South', 5685);
 insert into BASE (base_id, location, capacity)
 values (7530416, 'South', 6735);
 insert into BASE (base_id, location, capacity)
-values (2200056, 'South', 8132);
+values (2200056, 'South', 8182);
 insert into BASE (base_id, location, capacity)
 values (3997230, 'North', 6169);
 insert into BASE (base_id, location, capacity)
@@ -901,17 +901,17 @@ values (9694317, 'South', 9929);
 insert into BASE (base_id, location, capacity)
 values (9019860, 'South', 9000);
 insert into BASE (base_id, location, capacity)
-values (4996481, 'North', 2893);
+values (4996481, 'North', 2943);
 insert into BASE (base_id, location, capacity)
-values (5663092, 'North', 3297);
+values (5663092, 'North', 3347);
 insert into BASE (base_id, location, capacity)
 values (9623832, 'South', 8236);
 insert into BASE (base_id, location, capacity)
-values (2941446, 'North', 3326);
+values (2941446, 'North', 3376);
 insert into BASE (base_id, location, capacity)
 values (1087305, 'North', 5989);
 insert into BASE (base_id, location, capacity)
-values (7617887, 'South', 2565);
+values (7617887, 'South', 2615);
 insert into BASE (base_id, location, capacity)
 values (6689720, 'North', 9614);
 commit;
@@ -2524,805 +2524,805 @@ commit;
 prompt 400 records loaded
 prompt Loading ASSIGNED_TO...
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2493988, 3927310);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5596801, 9402345);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8106334, 1262561);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1220480, 7853381);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6775056, 4061678);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3414547, 1584539);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3286539, 6954133);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1882079, 5612097);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5769635, 5189634);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6693175, 1262561);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4472622, 2457629);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2865561, 1986797);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4549256, 7543399);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9230888, 7168128);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3479015, 8813180);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4910514, 5667529);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2374813, 5394571);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9153913, 4512841);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8770771, 8926614);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2827993, 2217722);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9340137, 5038602);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7257389, 6597242);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1073937, 2433761);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9597832, 6090267);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3429980, 4806585);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7719373, 6160971);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1808725, 3576438);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9480268, 4855280);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5760168, 8600140);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8770771, 2181091);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7924048, 4855280);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6034594, 7364727);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4178159, 7160188);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8907738, 1216187);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4100983, 4485995);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9651501, 3808639);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8782063, 1930567);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9453911, 3685252);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4910514, 5444014);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9069583, 5485240);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7140959, 2628100);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9885369, 5667529);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3479015, 5102664);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8995267, 5683638);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5604032, 1623369);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8065348, 6160971);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8582823, 3605568);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7578096, 1584539);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5847385, 2467616);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7376163, 8813180);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1220339, 2098863);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3374248, 4213476);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8654504, 6967912);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6826082, 1907940);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6734549, 1062224);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8770771, 9732153);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6310031, 7929944);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5604032, 5929904);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8493535, 3502098);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2467780, 3165050);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4163530, 7814021);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6430914, 5394571);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6148550, 6808790);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7228287, 1271531);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9482712, 3414596);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5959402, 5354867);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4654666, 8647578);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9989159, 9996873);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9172745, 9526513);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6530640, 4485995);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9417002, 5449216);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9651501, 3838136);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2613682, 9703027);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2419883, 9283353);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3127284, 1984353);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8728896, 1663725);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7995158, 6573895);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7725614, 4364524);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3374248, 5204185);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4683474, 1515649);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1204485, 1208230);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7565717, 4117224);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8572356, 6281541);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6614209, 5102664);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7857610, 1062224);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2604323, 9937027);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2015529, 9047125);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6693175, 5944405);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8659139, 9274709);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9772473, 6967912);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2934580, 5005170);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3487152, 1369247);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7963014, 2815027);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9545895, 7853381);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7740965, 9161674);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2514032, 5038602);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3927744, 9042822);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2467169, 8134725);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4123250, 5449216);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2514032, 1062224);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5252269, 7781641);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3594090, 3595319);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4123250, 2520938);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3253351, 1623369);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6951095, 4364524);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7725614, 5675996);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1513649, 8600140);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9453911, 3134922);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1620946, 8010012);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6948403, 3796511);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7984570, 4840819);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4216867, 4682736);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4631884, 2750236);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2637693, 9402345);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2109742, 9637046);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8008752, 5694939);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9546833, 6808790);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2012297, 9958145);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9826361, 9748374);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8327238, 5444014);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9989159, 5736882);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2266859, 5817369);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9504684, 2457629);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7651871, 6091016);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2256300, 3873366);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5074546, 6980614);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7958360, 7130293);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6430914, 4398705);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9218263, 9603793);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8327238, 7689503);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9866928, 9726209);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8347820, 9937027);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5475461, 3343883);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5056047, 7772886);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7712656, 5633770);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9958496, 7944406);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4729907, 4309853);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2467169, 9372639);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8582823, 8832334);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2827308, 7537870);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8882657, 5932496);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7465762, 8356758);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3580899, 5038602);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6037500, 3929822);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5893093, 2958945);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8907738, 1207909);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5604032, 4855280);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6734750, 7218418);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1247537, 3400160);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4121496, 9526513);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6259026, 8600140);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1756872, 8455306);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4123250, 2844833);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5349759, 2251555);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5604032, 2251555);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9876560, 4085995);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6554623, 1623369);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9067501, 4364524);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5252269, 7090564);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3479015, 1369247);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1629105, 9998653);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4481406, 5432006);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2567623, 7944406);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2568730, 4529789);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1939659, 9998653);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6252508, 4002386);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9823693, 7853381);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5466599, 4050150);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5252269, 2515883);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7725207, 1402141);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7781806, 4806585);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1027551, 8210261);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5074546, 7014361);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2346062, 2353552);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5466599, 3397632);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1386153, 9276546);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6029568, 8585125);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3818444, 4638183);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4705632, 8316555);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3414547, 5794625);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9029880, 2373811);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1220480, 3642317);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7420759, 4324427);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7565717, 3927310);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4121496, 1326030);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5118616, 8763548);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9069583, 2849857);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2012297, 9248129);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1513649, 9536493);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2243234, 3576438);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9961949, 1485033);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2921342, 7700692);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8216402, 9703027);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5604032, 4287317);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3253351, 7553514);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2883414, 5929904);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9067664, 6090267);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4755086, 7999481);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7247204, 8857505);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4549256, 2433761);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8907738, 3576438);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4152741, 4050150);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3751812, 7050156);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9067664, 4044756);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7725207, 7853381);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8770771, 8819014);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9651501, 2520938);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5023209, 7953435);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8853172, 9870094);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7857610, 9395337);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8355652, 5633770);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2260910, 5932496);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4683474, 4117224);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7374761, 1702444);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3414547, 1095279);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7592981, 3624881);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7865909, 7962139);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9860541, 1986797);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2567623, 9926164);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4100983, 3808639);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1204485, 2181091);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7046326, 1984353);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7247204, 5204185);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5408780, 9958145);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9094945, 7014361);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7984570, 3502098);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7757911, 6160971);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9076971, 6318482);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3818444, 9958145);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1984642, 3738705);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3594090, 5633770);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7197633, 7428176);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9172745, 8131060);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8106334, 4682736);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5349759, 2313347);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6284745, 7168128);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5977467, 5444014);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5252269, 3683640);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7551773, 5656405);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4121496, 6890626);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1615546, 9528983);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3117957, 8600140);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7578096, 1869631);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8983905, 7364727);
+values (1023116, 7994166);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (1027551, 5612097);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8804611, 5428238);
+values (1027551, 8210261);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7984570, 2958945);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7551773, 1271531);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4082110, 6451418);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1809773, 4364524);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9480268, 3683640);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1107832, 7465901);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1450319, 3683640);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7984570, 9998032);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9720973, 2373811);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3897536, 9029079);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8106334, 7465901);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9944499, 5683638);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2109742, 3179306);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3767565, 8612467);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5369899, 5944405);
+values (1073937, 2433761);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (1105079, 9303260);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9149654, 1485033);
+values (1107832, 7465901);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3751812, 3738705);
+values (1204485, 1208230);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2419883, 5395552);
+values (1204485, 2181091);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5769635, 5102664);
+values (1220339, 2098863);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1220339, 4368851);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1220480, 3642317);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1220480, 5345037);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1220480, 7853381);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1247537, 3400160);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1350031, 4061548);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1350031, 7107968);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1386153, 2709369);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1386153, 9276546);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1450319, 3683640);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1513649, 8600140);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1513649, 9536493);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1615546, 9528983);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1620946, 8010012);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1620946, 8800309);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1626004, 3396411);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1629105, 9998653);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1756872, 8455306);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1776720, 3160122);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1808725, 3576438);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1809773, 4364524);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1839002, 4933261);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1862987, 4206122);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1882079, 5612097);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1939659, 9998653);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (1984642, 3738705);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2012297, 8920489);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2012297, 9248129);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2012297, 9958145);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2015529, 9047125);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2109742, 3179306);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2109742, 9637046);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2135437, 2251555);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2135437, 4748163);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2243234, 3576438);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2256300, 3036102);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2256300, 3873366);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2260910, 5932496);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2266859, 5817369);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2277472, 5038602);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2346062, 2353552);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2374813, 5394571);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (2374813, 5817369);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1839002, 4933261);
+values (2419883, 5038602);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2419883, 5395552);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2419883, 9283353);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2467169, 8134725);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2467169, 9372639);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2467780, 3165050);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2493988, 3642317);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2493988, 3927310);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2514032, 1062224);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2514032, 5038602);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2514032, 8455306);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2567623, 7944406);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2567623, 9926164);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2568730, 4529789);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2604323, 9937027);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2613682, 9703027);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2637693, 9402345);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (2734234, 6706076);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (2780201, 5394571);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8654504, 2962414);
+values (2827308, 7537870);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8623418, 8973070);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2493988, 3642317);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6029568, 4913407);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5074546, 4682736);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2514032, 8455306);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2883414, 2815027);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6294135, 5723120);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5277671, 7700692);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4481406, 8134725);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6029568, 6343228);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2934580, 7090564);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7842823, 8356758);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8920628, 1559501);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1350031, 4061548);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2851433, 5723120);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8493535, 3045187);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4284411, 4682736);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9094945, 8389066);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5062584, 4682736);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7578096, 4309853);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1620946, 8800309);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5408780, 7950046);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7374761, 9395337);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5467817, 6678172);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9069583, 7607231);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6693175, 5656405);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7376163, 6967912);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8163662, 1559501);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9253559, 7105695);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3218179, 7929944);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5466599, 7772886);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8804611, 2467616);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9545895, 8093550);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3552431, 2388949);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3374248, 7950046);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8068467, 3396411);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3767565, 7553514);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9218263, 7763616);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9989159, 2536262);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3250114, 1623369);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9260284, 6890626);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7725207, 3160122);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9613359, 7537870);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5056047, 5345037);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7944750, 7014361);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1776720, 3160122);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2012297, 8920489);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2419883, 5038602);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5369899, 1138784);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1350031, 7107968);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5870725, 7853381);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4939405, 7543399);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9340137, 4002386);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8429937, 3710739);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8582823, 3515761);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5760168, 5175730);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9260284, 2750236);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2277472, 5038602);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4121496, 9290936);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7944750, 9628517);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4705632, 8857505);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4746541, 8010012);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9083652, 7057699);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4939405, 8920489);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2867074, 1986797);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8728896, 2098863);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6519312, 2488640);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4163530, 5204185);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6647740, 3269680);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1023116, 7994166);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7112797, 9998653);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2256300, 3036102);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5116265, 7014361);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6062645, 7853381);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1386153, 2709369);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3818444, 5204185);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8782063, 4861078);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6898122, 9161674);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8008752, 5585702);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5604032, 1271531);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7672711, 1621655);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3728847, 1584539);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8981330, 7802681);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9826361, 5395552);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8355652, 1930567);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1220480, 5345037);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6294135, 2433761);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6554623, 1138784);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4012291, 2694196);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3374248, 6406730);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2135437, 2251555);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9076971, 4052055);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5378834, 9639097);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7578096, 2911421);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3157077, 4061678);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6647740, 7781641);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4705632, 8479422);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4247099, 9303260);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7712656, 3654699);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5349759, 4395036);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6826082, 3576438);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9453911, 2467616);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1626004, 3396411);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4472622, 5817369);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6348818, 8612467);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1220339, 4368851);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7844491, 2307785);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8327238, 7944406);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6775056, 7689503);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2135437, 4748163);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5369899, 6698977);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3250114, 5585702);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3678140, 5102664);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9420885, 8093550);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4064250, 5189634);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9860541, 9047610);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (9260284, 4016772);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2865561, 1062224);
+values (2827993, 2217722);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (2841532, 3768516);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (6720545, 7781641);
+values (2851433, 5723120);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (3552431, 3685252);
+values (2865561, 1062224);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (5773059, 3953202);
+values (2865561, 1986797);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (7995158, 7607231);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (2981103, 3768516);
-insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (1862987, 4206122);
+values (2867074, 1986797);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (2880930, 9897561);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (8599881, 9227160);
+values (2883414, 2815027);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2883414, 5929904);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2921342, 7700692);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2934580, 5005170);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2934580, 7090564);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (2981103, 3768516);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3117957, 8600140);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3127284, 1984353);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3157077, 4061678);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3218179, 7929944);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3250114, 1623369);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3250114, 5585702);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3253351, 1623369);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3253351, 7553514);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3286539, 6954133);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3374248, 4213476);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3374248, 5204185);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3374248, 6406730);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3374248, 7950046);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3414547, 1095279);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3414547, 1584539);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3414547, 5794625);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3429980, 4806585);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3479015, 1369247);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3479015, 5102664);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3479015, 8813180);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3487152, 1369247);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3552431, 2388949);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3552431, 3685252);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3580899, 5038602);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3594090, 3595319);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3594090, 5633770);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3678140, 5102664);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3728847, 1584539);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3751812, 3738705);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3751812, 7050156);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3767565, 7553514);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3767565, 8612467);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3818444, 4638183);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3818444, 5204185);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3818444, 9958145);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3897536, 9029079);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (3927744, 9042822);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4012291, 2694196);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4064250, 5189634);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4082110, 6451418);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4100983, 3808639);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4100983, 4485995);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4121496, 1326030);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4121496, 6890626);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4121496, 9290936);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4121496, 9526513);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4123250, 2520938);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4123250, 2844833);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4123250, 5449216);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4152741, 4050150);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4163530, 5204185);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4163530, 7814021);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4178159, 7160188);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4216867, 4682736);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4247099, 9303260);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4284411, 4682736);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4472622, 2457629);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4472622, 5817369);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4481406, 5432006);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4481406, 8134725);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4549256, 2433761);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4549256, 7543399);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4631884, 2750236);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4654666, 8647578);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4683474, 1515649);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4683474, 4117224);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4705632, 8316555);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4705632, 8479422);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4705632, 8857505);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4729907, 4084827);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4729907, 4309853);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4746541, 8010012);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4755086, 7999481);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4910514, 5444014);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4910514, 5667529);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4939405, 7543399);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (4939405, 8920489);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5023209, 7953435);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5056047, 5345037);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5056047, 7772886);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5062584, 4682736);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5074546, 4682736);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5074546, 6980614);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5074546, 7014361);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5116265, 7014361);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5118616, 8763548);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
 values (5248976, 4398705);
 insert into ASSIGNED_TO (aircraft_id, mission_id)
-values (4729907, 4084827);
+values (5252269, 2515883);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5252269, 3683640);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5252269, 7090564);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5252269, 7781641);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5277671, 7700692);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5349759, 2251555);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5349759, 2313347);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5349759, 4395036);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5369899, 1138784);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5369899, 5944405);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5369899, 6698977);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5378834, 9639097);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5408780, 7950046);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5408780, 9958145);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5466599, 3397632);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5466599, 4050150);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5466599, 7772886);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5467817, 6678172);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5475461, 3343883);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5596801, 9402345);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5604032, 1271531);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5604032, 1623369);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5604032, 2251555);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5604032, 4287317);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5604032, 4855280);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5604032, 5929904);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5760168, 5175730);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5760168, 8600140);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5769635, 5102664);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5769635, 5189634);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5773059, 3953202);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5847385, 2467616);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5870725, 7853381);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5893093, 2958945);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5959402, 5354867);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (5977467, 5444014);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6029568, 4913407);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6029568, 6343228);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6029568, 8585125);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6034594, 7364727);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6037500, 3929822);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6062645, 7853381);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6148550, 6808790);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6252508, 4002386);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6259026, 8600140);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6284745, 7168128);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6294135, 2433761);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6294135, 5723120);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6310031, 7929944);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6348818, 8612467);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6430914, 4398705);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6430914, 5394571);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6519312, 2488640);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6530640, 4485995);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6554623, 1138784);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6554623, 1623369);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6614209, 5102664);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6647740, 3269680);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6647740, 7781641);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6693175, 1262561);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6693175, 5656405);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6693175, 5944405);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6720545, 7781641);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6734549, 1062224);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6734750, 7218418);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6775056, 4061678);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6775056, 7689503);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6826082, 1907940);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6826082, 3576438);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6898122, 9161674);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6948403, 3796511);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (6951095, 4364524);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7046326, 1984353);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7112797, 9998653);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7140959, 2628100);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7197633, 7428176);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7228287, 1271531);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7247204, 5204185);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7247204, 8857505);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7257389, 6597242);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7374761, 1702444);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7374761, 9395337);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7376163, 6967912);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7376163, 8813180);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7420759, 4324427);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7465762, 8356758);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7551773, 1271531);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7551773, 5656405);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7565717, 3927310);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7565717, 4117224);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7578096, 1584539);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7578096, 1869631);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7578096, 2911421);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7578096, 4309853);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7592981, 3624881);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7651871, 6091016);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7672711, 1621655);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7712656, 3654699);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7712656, 5633770);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7719373, 6160971);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7725207, 1402141);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7725207, 3160122);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7725207, 7853381);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7725614, 4364524);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7725614, 5675996);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7740965, 9161674);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7757911, 6160971);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7781806, 4806585);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7842823, 8356758);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7844491, 2307785);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7857610, 1062224);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7857610, 9395337);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7865909, 7962139);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7924048, 4855280);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7944750, 7014361);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7944750, 9628517);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7958360, 7130293);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7963014, 2815027);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7984570, 2958945);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7984570, 3502098);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7984570, 4840819);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7984570, 9998032);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7995158, 6573895);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (7995158, 7607231);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8008752, 5585702);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8008752, 5694939);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8065348, 6160971);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8068467, 3396411);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8106334, 1262561);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8106334, 4682736);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8106334, 7465901);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8163662, 1559501);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8216402, 9703027);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8327238, 5444014);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8327238, 7689503);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8327238, 7944406);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8347820, 9937027);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8355652, 1930567);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8355652, 5633770);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8429937, 3710739);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8493535, 3045187);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8493535, 3502098);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8572356, 6281541);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8582823, 3515761);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8582823, 3605568);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8582823, 8832334);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8599881, 9227160);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8623418, 8973070);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8654504, 2962414);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8654504, 6967912);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8659139, 9274709);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8728896, 1663725);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8728896, 2098863);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8770771, 2181091);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8770771, 8819014);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8770771, 8926614);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8770771, 9732153);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8782063, 1930567);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8782063, 4861078);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8804611, 2467616);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8804611, 5428238);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8853172, 9870094);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8882657, 5932496);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8907738, 1207909);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8907738, 1216187);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8907738, 3576438);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8920628, 1559501);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8981330, 7802681);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8983905, 7364727);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (8995267, 5683638);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9029880, 2373811);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9067501, 4364524);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9067664, 4044756);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9067664, 6090267);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9069583, 2849857);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9069583, 5485240);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9069583, 7607231);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9076971, 4052055);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9076971, 6318482);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9083652, 7057699);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9094945, 7014361);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9094945, 8389066);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9149654, 1485033);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9153913, 4512841);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9172745, 8131060);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9172745, 9526513);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9218263, 7763616);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9218263, 9603793);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9230888, 7168128);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9253559, 7105695);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9260284, 2750236);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9260284, 4016772);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9260284, 6890626);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9340137, 4002386);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9340137, 5038602);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9417002, 5449216);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9420885, 8093550);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9453911, 2467616);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9453911, 3134922);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9453911, 3685252);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9480268, 3683640);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9480268, 4855280);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9482712, 3414596);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9504684, 2457629);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9545895, 7853381);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9545895, 8093550);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9546833, 6808790);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9597832, 6090267);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9613359, 7537870);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9651501, 2520938);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9651501, 3808639);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9651501, 3838136);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9720973, 2373811);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9772473, 6967912);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9823693, 7853381);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9826361, 5395552);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9826361, 9748374);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9860541, 1986797);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9860541, 9047610);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9866928, 9726209);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9876560, 4085995);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9885369, 5667529);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9944499, 5683638);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9958496, 7944406);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9961949, 1485033);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9989159, 2536262);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9989159, 5736882);
+insert into ASSIGNED_TO (aircraft_id, mission_id)
+values (9989159, 9996873);
 commit;
 prompt 400 records loaded
 prompt Loading FLIGHT...
@@ -4130,135 +4130,135 @@ commit;
 prompt 400 records loaded
 prompt Loading SOLDIER...
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6646417, 'Rav Seren', 'Clint');
+values (6646417, 'Sergeant', 'Clint');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1411169, 'Seren', 'Bo');
+values (1411169, 'Sergeant', 'Bo');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4196548, 'Sgan Aluf', 'Rachid');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4101527, 'Sgan Aluf', 'Carrie');
+values (4101527, 'Sergeant', 'Carrie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4094064, 'Seren', 'Oro');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1882389, 'Rav Seren', 'Machine');
+values (1882389, 'Sergeant', 'Machine');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4159499, 'Aluf Mishne', 'Ani');
+values (4159499, 'Sergeant', 'Ani');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9704794, 'Rav Seren', 'Colm');
+values (9704794, 'Sergeant', 'Colm');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2850208, 'Seren', 'Tcheky');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6314572, 'Aluf Mishne', 'Kris');
+values (6314572, 'Sergeant', 'Kris');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3239573, 'Rav Seren', 'Geoff');
+values (3239573, 'Sergeant', 'Geoff');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4127809, 'Sgan Aluf', 'Darius');
+values (4127809, 'Sergeant', 'Darius');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4776589, 'Rav Seren', 'Beth');
+values (4776589, 'Sergeant', 'Beth');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8950386, 'Rav Seren', 'Rade');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (6663628, 'Aluf Mishne', 'Rod');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3641807, 'Seren', 'Keith');
+values (3641807, 'Sergeant', 'Keith');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8254846, 'Aluf Mishne', 'Christian');
+values (8254846, 'Sergeant', 'Christian');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6406542, 'Seren', 'Clint');
+values (6406542, 'Sergeant', 'Clint');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4753682, 'Sgan Aluf', 'Billy');
+values (4753682, 'Sergeant', 'Billy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9893193, 'Seren', 'Dick');
+values (9893193, 'Sergeant', 'Dick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4621669, 'Seren', 'Cuba');
+values (4621669, 'Sergeant', 'Cuba');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1005397, 'Seren', 'Kathleen');
+values (1005397, 'Sergeant', 'Kathleen');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8564909, 'Rav Seren', 'Gena');
+values (8564909, 'Sergeant', 'Gena');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9091108, 'Rav Seren', 'Paula');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4301429, 'Aluf Mishne', 'Alice');
+values (4301429, 'Sergeant', 'Alice');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4291130, 'Aluf Mishne', 'Oded');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9594932, 'Seren', 'Kenneth');
+values (9594932, 'Sergeant', 'Kenneth');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2106116, 'Seren', 'Rachel');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2830409, 'Rav Seren', 'Andrew');
+values (2830409, 'Sergeant', 'Andrew');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5996108, 'Sgan Aluf', 'Joseph');
+values (5996108, 'Sergeant', 'Joseph');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3767525, 'Sgan Aluf', 'Buffy');
+values (3767525, 'Sergeant', 'Buffy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4870662, 'Seren', 'Davy');
+values (4870662, 'Sergeant', 'Davy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5600761, 'Seren', 'Annette');
+values (5600761, 'Sergeant', 'Annette');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1973082, 'Seren', 'Forest');
+values (1973082, 'Sergeant', 'Forest');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6143856, 'Seren', 'Buddy');
+values (6143856, 'Sergeant', 'Buddy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5721901, 'Seren', 'Gabrielle');
+values (5721901, 'Sergeant', 'Gabrielle');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7402315, 'Seren', 'Louise');
+values (7402315, 'Sergeant', 'Louise');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5858816, 'Rav Seren', 'Merrilee');
+values (5858816, 'Sergeant', 'Merrilee');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3064394, 'Seren', 'Crystal');
+values (3064394, 'Sergeant', 'Crystal');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3577547, 'Seren', 'Denny');
+values (3577547, 'Sergeant', 'Denny');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5090366, 'Aluf Mishne', 'David');
+values (5090366, 'Sergeant', 'David');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7484796, 'Sgan Aluf', 'Uma');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6674604, 'Aluf Mishne', 'Geraldine');
+values (6674604, 'Sergeant', 'Geraldine');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1085339, 'Aluf Mishne', 'Murray');
+values (1085339, 'Sergeant', 'Murray');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6957560, 'Seren', 'Milla');
+values (6957560, 'Sergeant', 'Milla');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5300630, 'Aluf Mishne', 'Greg');
+values (5300630, 'Sergeant', 'Greg');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1037558, 'Rav Seren', 'Delroy');
+values (1037558, 'Sergeant', 'Delroy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9136783, 'Rav Seren', 'Burton');
+values (9136783, 'Sergeant', 'Burton');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4638006, 'Sgan Aluf', 'Tracy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8325770, 'Rav Seren', 'Rascal');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3286581, 'Sgan Aluf', 'Ed');
+values (3286581, 'Sergeant', 'Ed');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4385762, 'Rav Seren', 'Frank');
+values (4385762, 'Sergeant', 'Frank');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1621747, 'Sgan Aluf', 'Meredith');
+values (1621747, 'Sergeant', 'Meredith');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4395176, 'Rav Seren', 'Debra');
+values (4395176, 'Sergeant', 'Debra');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6521070, 'Seren', 'Austin');
+values (6521070, 'Sergeant', 'Austin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8662661, 'Sgan Aluf', 'Marisa');
+values (8662661, 'Sergeant', 'Marisa');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5707695, 'Sgan Aluf', 'Catherine');
+values (5707695, 'Sergeant', 'Catherine');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1714556, 'Aluf Mishne', 'Woody');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5398589, 'Rav Seren', 'Mint');
+values (5398589, 'Sergeant', 'Mint');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2424625, 'Sgan Aluf', 'Chazz');
+values (2424625, 'Sergeant', 'Chazz');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2973180, 'Sgan Aluf', 'Giovanni');
+values (2973180, 'Sergeant', 'Giovanni');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9990798, 'Seren', 'Raul');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1626391, 'Aluf Mishne', 'Ty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7632570, 'Sgan Aluf', 'Maxine');
+values (7632570, 'Sergeant', 'Maxine');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5088216, 'Rav Seren', 'Glenn');
+values (5088216, 'Sergeant', 'Glenn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9653218, 'Seren', 'Rolando');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4270,73 +4270,73 @@ values (3052624, 'Seren', 'Vanessa');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4931264, 'Rav Seren', 'Xander');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9330275, 'Aluf Mishne', 'Elvis');
+values (9330275, 'Sergeant', 'Elvis');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9373323, 'Aluf Mishne', 'Darren');
+values (9373323, 'Sergeant', 'Darren');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4684133, 'Sgan Aluf', 'Walter');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6804278, 'Seren', 'Azucar');
+values (6804278, 'Sergeant', 'Azucar');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1297236, 'Seren', 'Marty');
+values (1297236, 'Sergeant', 'Marty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9777065, 'Aluf Mishne', 'Oliver');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2435574, 'Rav Seren', 'Vonda');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1088966, 'Aluf Mishne', 'Melanie');
+values (1088966, 'Sergeant', 'Melanie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8625165, 'Sgan Aluf', 'Stevie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1859990, 'Sgan Aluf', 'Shawn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8369312, 'Aluf Mishne', 'Karen');
+values (8369312, 'Sergeant', 'Karen');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4180175, 'Rav Seren', 'Miko');
+values (4180175, 'Sergeant', 'Miko');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4840730, 'Rav Seren', 'Micky');
+values (4840730, 'Sergeant', 'Micky');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9037363, 'Sgan Aluf', 'Harvey');
+values (9037363, 'Sergeant', 'Harvey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7367019, 'Aluf Mishne', 'Emily');
+values (7367019, 'Sergeant', 'Emily');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5210626, 'Seren', 'Gin');
+values (5210626, 'Sergeant', 'Gin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3232077, 'Rav Seren', 'Tommy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5827222, 'Sgan Aluf', 'Dick');
+values (5827222, 'Sergeant', 'Dick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5902933, 'Rav Seren', 'Roger');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9645213, 'Rav Seren', 'Taylor');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4323746, 'Aluf Mishne', 'Hector');
+values (4323746, 'Sergeant', 'Hector');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2652197, 'Seren', 'Stellan');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4958710, 'Seren', 'Dick');
+values (4958710, 'Sergeant', 'Dick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5575496, 'Sgan Aluf', 'Lily');
+values (5575496, 'Sergeant', 'Lily');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9875997, 'Rav Seren', 'Fred');
+values (9875997, 'Sergeant', 'Fred');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4193082, 'Aluf Mishne', 'Betty');
+values (4193082, 'Sergeant', 'Betty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6908007, 'Sgan Aluf', 'Mary-Louise');
+values (6908007, 'Sergeant', 'Mary-Louise');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9230019, 'Aluf Mishne', 'Loren');
+values (9230019, 'Sergeant', 'Loren');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2861681, 'Rav Seren', 'Darius');
+values (2861681, 'Sergeant', 'Darius');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7934801, 'Aluf Mishne', 'Lindsay');
+values (7934801, 'Sergeant', 'Lindsay');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (6448921, 'Sgan Aluf', 'Shannyn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6466065, 'Sgan Aluf', 'Goran');
+values (6466065, 'Sergeant', 'Goran');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2123768, 'Rav Seren', 'Milla');
+values (2123768, 'Sergeant', 'Milla');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4795371, 'Sgan Aluf', 'Jeffery');
+values (4795371, 'Sergeant', 'Jeffery');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7912391, 'Seren', 'Susan');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4344,41 +4344,41 @@ values (5258493, 'Aluf Mishne', 'Sarah');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5666672, 'Rav Seren', 'Xander');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8978501, 'Rav Seren', 'Marlon');
+values (8978501, 'Sergeant', 'Marlon');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5524719, 'Sgan Aluf', 'Alan');
+values (5524719, 'Sergeant', 'Alan');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2451259, 'Aluf Mishne', 'Stephen');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7784481, 'Rav Seren', 'Tobey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2440455, 'Aluf Mishne', 'Gabriel');
+values (2440455, 'Sergeant', 'Gabriel');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9452303, 'Sgan Aluf', 'Gaby');
+values (9452303, 'Sergeant', 'Gaby');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3287263, 'Rav Seren', 'Walter');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7479237, 'Aluf Mishne', 'Catherine');
+values (7479237, 'Sergeant', 'Catherine');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5611789, 'Sgan Aluf', 'Anita');
+values (5611789, 'Sergeant', 'Anita');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4706729, 'Sgan Aluf', 'Oliver');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9482143, 'Rav Seren', 'Shannyn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8872368, 'Aluf Mishne', 'John');
+values (8872368, 'Sergeant', 'John');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2264600, 'Rav Seren', 'Larnelle');
+values (2264600, 'Sergeant', 'Larnelle');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2238339, 'Aluf Mishne', 'Vanessa');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1857635, 'Seren', 'Shelby');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7562418, 'Seren', 'Darius');
+values (7562418, 'Sergeant', 'Darius');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (6665906, 'Seren', 'Wang');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1796398, 'Aluf Mishne', 'Lennie');
+values (1796398, 'Sergeant', 'Lennie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8800130, 'Rav Seren', 'Nicholas');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4388,27 +4388,27 @@ values (5407789, 'Seren', 'Udo');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3383989, 'Seren', 'Robby');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3060051, 'Sgan Aluf', 'Isaac');
+values (3060051, 'Sergeant', 'Isaac');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7258417, 'Rav Seren', 'Cyndi');
+values (7258417, 'Sergeant', 'Cyndi');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3554915, 'Sgan Aluf', 'Gaby');
+values (3554915, 'Sergeant', 'Gaby');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8385761, 'Aluf Mishne', 'Willie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1657678, 'Rav Seren', 'Kid');
+values (1657678, 'Sergeant', 'Kid');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9127123, 'Rav Seren', 'Kate');
+values (9127123, 'Sergeant', 'Kate');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2000061, 'Seren', 'Timothy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7696650, 'Seren', 'Lauren');
+values (7696650, 'Sergeant', 'Lauren');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7911039, 'Aluf Mishne', 'Maureen');
+values (7911039, 'Sergeant', 'Maureen');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8107741, 'Aluf Mishne', 'Edwin');
+values (8107741, 'Sergeant', 'Edwin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5168284, 'Aluf Mishne', 'Marty');
+values (5168284, 'Sergeant', 'Marty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1429707, 'Seren', 'Tim');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4416,111 +4416,111 @@ values (3851497, 'Aluf Mishne', 'Vondie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2889165, 'Rav Seren', 'Peter');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7460333, 'Sgan Aluf', 'Denise');
+values (7460333, 'Sergeant', 'Denise');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7031144, 'Aluf Mishne', 'Ellen');
+values (7031144, 'Sergeant', 'Ellen');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5542663, 'Rav Seren', 'Mykelti');
+values (5542663, 'Sergeant', 'Mykelti');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1530839, 'Seren', 'Billy');
+values (1530839, 'Sergeant', 'Billy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8075961, 'Sgan Aluf', 'Gladys');
+values (8075961, 'Sergeant', 'Gladys');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5880745, 'Aluf Mishne', 'Dave');
+values (5880745, 'Sergeant', 'Dave');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7068248, 'Seren', 'Selma');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1132007, 'Rav Seren', 'Tobey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7107728, 'Seren', 'Carrie');
+values (7107728, 'Sergeant', 'Carrie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5705735, 'Seren', 'George');
+values (5705735, 'Sergeant', 'George');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1204485, 'Sgan Aluf', 'Lynn');
+values (1204485, 'Sergeant', 'Lynn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4072248, 'Sgan Aluf', 'Ozzy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1045953, 'Aluf Mishne', 'Isabella');
+values (1045953, 'Sergeant', 'Isabella');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2386269, 'Sgan Aluf', 'Donal');
+values (2386269, 'Sergeant', 'Donal');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6042751, 'Aluf Mishne', 'Lionel');
+values (6042751, 'Sergeant', 'Lionel');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4026435, 'Rav Seren', 'Vickie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7085407, 'Rav Seren', 'Shannyn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4980638, 'Sgan Aluf', 'Cyndi');
+values (4980638, 'Sergeant', 'Cyndi');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2078008, 'Sgan Aluf', 'Tea');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3207225, 'Rav Seren', 'Claude');
+values (3207225, 'Sergeant', 'Claude');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3874405, 'Aluf Mishne', 'Andre');
+values (3874405, 'Sergeant', 'Andre');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2048325, 'Seren', 'Miko');
+values (2048325, 'Sergeant', 'Miko');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1528686, 'Sgan Aluf', 'Gordie');
+values (1528686, 'Sergeant', 'Gordie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7538217, 'Rav Seren', 'Nick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2596893, 'Seren', 'Isaac');
+values (2596893, 'Sergeant', 'Isaac');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1599043, 'Seren', 'Jane');
+values (1599043, 'Sergeant', 'Jane');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5903639, 'Seren', 'Anthony');
+values (5903639, 'Sergeant', 'Anthony');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2710897, 'Sgan Aluf', 'Embeth');
+values (2710897, 'Sergeant', 'Embeth');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5528176, 'Sgan Aluf', 'Tom');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9245874, 'Rav Seren', 'Alice');
+values (9245874, 'Sergeant', 'Alice');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6081795, 'Sgan Aluf', 'Glenn');
+values (6081795, 'Sergeant', 'Glenn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6328497, 'Sgan Aluf', 'Alannah');
+values (6328497, 'Sergeant', 'Alannah');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7454901, 'Aluf Mishne', 'Lesley');
+values (7454901, 'Sergeant', 'Lesley');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9390627, 'Seren', 'Maureen');
+values (9390627, 'Sergeant', 'Maureen');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1420131, 'Rav Seren', 'Liam');
+values (1420131, 'Sergeant', 'Liam');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5589896, 'Aluf Mishne', 'Humberto');
+values (5589896, 'Sergeant', 'Humberto');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8599920, 'Seren', 'Rip');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7519559, 'Aluf Mishne', 'Merrilee');
+values (7519559, 'Sergeant', 'Merrilee');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7655586, 'Sgan Aluf', 'Julianne');
+values (7655586, 'Sergeant', 'Julianne');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6216681, 'Seren', 'Harrison');
+values (6216681, 'Sergeant', 'Harrison');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9942668, 'Seren', 'Gary');
+values (9942668, 'Sergeant', 'Gary');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4937566, 'Rav Seren', 'Maxine');
+values (4937566, 'Sergeant', 'Maxine');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7616547, 'Seren', 'Chris');
+values (7616547, 'Sergeant', 'Chris');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6576501, 'Aluf Mishne', 'Kyra');
+values (6576501, 'Sergeant', 'Kyra');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9075663, 'Aluf Mishne', 'Brian');
+values (9075663, 'Sergeant', 'Brian');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4518973, 'Rav Seren', 'Jerry');
+values (4518973, 'Sergeant', 'Jerry');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8009536, 'Seren', 'Coley');
+values (8009536, 'Sergeant', 'Coley');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1205830, 'Rav Seren', 'Benjamin');
+values (1205830, 'Sergeant', 'Benjamin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7987776, 'Sgan Aluf', 'Martha');
+values (7987776, 'Sergeant', 'Martha');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4303057, 'Seren', 'Kimberly');
+values (4303057, 'Sergeant', 'Kimberly');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7796707, 'Aluf Mishne', 'Larry');
+values (7796707, 'Sergeant', 'Larry');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3185277, 'Rav Seren', 'Angela');
+values (3185277, 'Sergeant', 'Angela');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1414877, 'Aluf Mishne', 'Cloris');
+values (1414877, 'Sergeant', 'Cloris');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1012419, 'Seren', 'Rupert');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4528,11 +4528,11 @@ values (9929797, 'Sgan Aluf', 'Roddy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5070551, 'Sgan Aluf', 'Tori');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6648486, 'Rav Seren', 'Faye');
+values (6648486, 'Sergeant', 'Faye');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9822330, 'Rav Seren', 'Spencer');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3456142, 'Seren', 'Benicio');
+values (3456142, 'Sergeant', 'Benicio');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7332220, 'Seren', 'Sonny');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4540,113 +4540,113 @@ values (8943066, 'Seren', 'Nelly');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9959182, 'Seren', 'Olympia');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7262392, 'Sgan Aluf', 'April');
+values (7262392, 'Sergeant', 'April');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2507386, 'Sgan Aluf', 'Merrilee');
+values (2507386, 'Sergeant', 'Merrilee');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4912563, 'Aluf Mishne', 'Jonny');
+values (4912563, 'Sergeant', 'Jonny');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6956165, 'Rav Seren', 'Anita');
+values (6956165, 'Sergeant', 'Anita');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7971546, 'Seren', 'Derrick');
+values (7971546, 'Sergeant', 'Derrick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3516394, 'Seren', 'Katrin');
+values (3516394, 'Sergeant', 'Katrin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4556838, 'Sgan Aluf', 'Gladys');
+values (4556838, 'Sergeant', 'Gladys');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8644291, 'Aluf Mishne', 'Lee');
+values (8644291, 'Sergeant', 'Lee');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4758927, 'Rav Seren', 'Xander');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8847706, 'Rav Seren', 'Maggie');
+values (8847706, 'Sergeant', 'Maggie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7808602, 'Aluf Mishne', 'Chris');
+values (7808602, 'Sergeant', 'Chris');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2206904, 'Sgan Aluf', 'Jackson');
+values (2206904, 'Sergeant', 'Jackson');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7102734, 'Aluf Mishne', 'Trace');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6564070, 'Seren', 'Derrick');
+values (6564070, 'Sergeant', 'Derrick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9741486, 'Seren', 'Tommy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3875783, 'Rav Seren', 'Holland');
+values (3875783, 'Sergeant', 'Holland');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4734787, 'Aluf Mishne', 'Breckin');
+values (4734787, 'Sergeant', 'Breckin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4333095, 'Seren', 'Harrison');
+values (4333095, 'Sergeant', 'Harrison');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9829863, 'Rav Seren', 'Dianne');
+values (9829863, 'Sergeant', 'Dianne');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3096974, 'Sgan Aluf', 'Simon');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3307090, 'Rav Seren', 'Lorraine');
+values (3307090, 'Sergeant', 'Lorraine');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2935372, 'Aluf Mishne', 'Daryle');
+values (2935372, 'Sergeant', 'Daryle');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2901063, 'Sgan Aluf', 'Neve');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3244474, 'Sgan Aluf', 'Bryan');
+values (3244474, 'Sergeant', 'Bryan');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5539843, 'Seren', 'Tea');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3953250, 'Sgan Aluf', 'Michelle');
+values (3953250, 'Sergeant', 'Michelle');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3670590, 'Sgan Aluf', 'Ossie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3209894, 'Aluf Mishne', 'Collective');
+values (3209894, 'Sergeant', 'Collective');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8866522, 'Aluf Mishne', 'Adrien');
+values (8866522, 'Sergeant', 'Adrien');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9593414, 'Sgan Aluf', 'Tobey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6000966, 'Seren', 'Alicia');
+values (6000966, 'Sergeant', 'Alicia');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9446219, 'Sgan Aluf', 'Maggie');
+values (9446219, 'Sergeant', 'Maggie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2841653, 'Seren', 'Morgan');
+values (2841653, 'Sergeant', 'Morgan');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1846364, 'Aluf Mishne', 'Sara');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5274847, 'Aluf Mishne', 'Gates');
+values (5274847, 'Sergeant', 'Gates');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8293798, 'Rav Seren', 'Laura');
+values (8293798, 'Sergeant', 'Laura');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5826914, 'Sgan Aluf', 'Charlie');
+values (5826914, 'Sergeant', 'Charlie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7435941, 'Seren', 'Gene');
+values (7435941, 'Sergeant', 'Gene');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7523007, 'Seren', 'Humberto');
+values (7523007, 'Sergeant', 'Humberto');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1666683, 'Seren', 'Brian');
+values (1666683, 'Sergeant', 'Brian');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2721168, 'Seren', 'Mykelti');
+values (2721168, 'Sergeant', 'Mykelti');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6262018, 'Rav Seren', 'Dabney');
+values (6262018, 'Sergeant', 'Dabney');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5197842, 'Seren', 'Grace');
+values (5197842, 'Sergeant', 'Grace');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4427446, 'Seren', 'Carrie-Anne');
+values (4427446, 'Sergeant', 'Carrie-Anne');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7750082, 'Rav Seren', 'Merrill');
+values (7750082, 'Sergeant', 'Merrill');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1289471, 'Seren', 'Joaquim');
+values (1289471, 'Sergeant', 'Joaquim');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9732997, 'Sgan Aluf', 'Patti');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3028600, 'Seren', 'Jude');
+values (3028600, 'Sergeant', 'Jude');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1580931, 'Aluf Mishne', 'Jimmie');
+values (1580931, 'Sergeant', 'Jimmie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3086575, 'Seren', 'Jeremy');
+values (3086575, 'Sergeant', 'Jeremy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8279757, 'Rav Seren', 'Trey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3248740, 'Sgan Aluf', 'Patricia');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7278225, 'Seren', 'Chazz');
+values (7278225, 'Sergeant', 'Chazz');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8465932, 'Sgan Aluf', 'Mena');
+values (8465932, 'Sergeant', 'Mena');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2260820, 'Rav Seren', 'Vincent');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4654,191 +4654,191 @@ values (9101545, 'Rav Seren', 'Owen');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4865783, 'Seren', 'Phoebe');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9931066, 'Sgan Aluf', 'Art');
+values (9931066, 'Sergeant', 'Art');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8632074, 'Sgan Aluf', 'Kimberly');
+values (8632074, 'Sergeant', 'Kimberly');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2245744, 'Sgan Aluf', 'Julia');
+values (2245744, 'Sergeant', 'Julia');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7510877, 'Aluf Mishne', 'Jonatha');
+values (7510877, 'Sergeant', 'Jonatha');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2881808, 'Sgan Aluf', 'Gabriel');
+values (2881808, 'Sergeant', 'Gabriel');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5993014, 'Aluf Mishne', 'Vonda');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2474197, 'Rav Seren', 'Hex');
+values (2474197, 'Sergeant', 'Hex');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3596067, 'Aluf Mishne', 'Jaime');
+values (3596067, 'Sergeant', 'Jaime');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4781587, 'Rav Seren', 'Bob');
+values (4781587, 'Sergeant', 'Bob');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7936406, 'Sgan Aluf', 'Neneh');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4110192, 'Seren', 'Lonnie');
+values (4110192, 'Sergeant', 'Lonnie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2194363, 'Seren', 'Lili');
+values (2194363, 'Sergeant', 'Lili');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3739775, 'Aluf Mishne', 'Gary');
+values (3739775, 'Sergeant', 'Gary');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7277847, 'Aluf Mishne', 'Ron');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8389103, 'Sgan Aluf', 'Brothers');
+values (8389103, 'Sergeant', 'Brothers');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7713328, 'Seren', 'Ty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8212182, 'Aluf Mishne', 'Karon');
+values (8212182, 'Sergeant', 'Karon');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5055821, 'Sgan Aluf', 'Gord');
+values (5055821, 'Sergeant', 'Gord');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5153512, 'Seren', 'Carol');
+values (5153512, 'Sergeant', 'Carol');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3723751, 'Aluf Mishne', 'Geggy');
+values (3723751, 'Sergeant', 'Geggy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2772845, 'Rav Seren', 'Rueben');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7442897, 'Aluf Mishne', 'First');
+values (7442897, 'Sergeant', 'First');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2439947, 'Seren', 'Drew');
+values (2439947, 'Sergeant', 'Drew');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1238518, 'Seren', 'Wayman');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4160237, 'Rav Seren', 'Carl');
+values (4160237, 'Sergeant', 'Carl');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1958676, 'Sgan Aluf', 'Chalee');
+values (1958676, 'Sergeant', 'Chalee');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (6785335, 'Aluf Mishne', 'Yolanda');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1957303, 'Sgan Aluf', 'Claire');
+values (1957303, 'Sergeant', 'Claire');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9051004, 'Aluf Mishne', 'Remy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7625129, 'Seren', 'Roscoe');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3331313, 'Rav Seren', 'Liquid');
+values (3331313, 'Sergeant', 'Liquid');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8242700, 'Aluf Mishne', 'King');
+values (8242700, 'Sergeant', 'King');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5264375, 'Sgan Aluf', 'Carl');
+values (5264375, 'Sergeant', 'Carl');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7954938, 'Sgan Aluf', 'Debi');
+values (7954938, 'Sergeant', 'Debi');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5054513, 'Aluf Mishne', 'Rose');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6843431, 'Seren', 'Javon');
+values (6843431, 'Sergeant', 'Javon');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4350355, 'Rav Seren', 'Toshiro');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9913472, 'Rav Seren', 'Leelee');
+values (9913472, 'Sergeant', 'Leelee');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8700951, 'Aluf Mishne', 'Terence');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8630248, 'Sgan Aluf', 'Andie');
+values (8630248, 'Sergeant', 'Andie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1764838, 'Sgan Aluf', 'Betty');
+values (1764838, 'Sergeant', 'Betty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6245019, 'Aluf Mishne', 'Gloria');
+values (6245019, 'Sergeant', 'Gloria');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3252637, 'Sgan Aluf', 'Wang');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3860150, 'Sgan Aluf', 'Lynette');
+values (3860150, 'Sergeant', 'Lynette');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7084755, 'Seren', 'Jim');
+values (7084755, 'Sergeant', 'Jim');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7803901, 'Rav Seren', 'Taryn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8004545, 'Rav Seren', 'Alfred');
+values (8004545, 'Sergeant', 'Alfred');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9734553, 'Rav Seren', 'Dustin');
+values (9734553, 'Sergeant', 'Dustin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9966385, 'Seren', 'Maggie');
+values (9966385, 'Sergeant', 'Maggie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8781100, 'Aluf Mishne', 'Emma');
+values (8781100, 'Sergeant', 'Emma');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2580049, 'Seren', 'Max');
+values (2580049, 'Sergeant', 'Max');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2267028, 'Rav Seren', 'Gord');
+values (2267028, 'Sergeant', 'Gord');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1799960, 'Rav Seren', 'Alfie');
+values (1799960, 'Sergeant', 'Alfie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1967011, 'Seren', 'Graham');
+values (1967011, 'Sergeant', 'Graham');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9462974, 'Seren', 'Hex');
+values (9462974, 'Sergeant', 'Hex');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3726227, 'Sgan Aluf', 'Wayne');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4263679, 'Sgan Aluf', 'Kevn');
+values (4263679, 'Sergeant', 'Kevn');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1440959, 'Seren', 'Johnnie');
+values (1440959, 'Sergeant', 'Johnnie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (6874359, 'Seren', 'Tia');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5169643, 'Seren', 'Ivan');
+values (5169643, 'Sergeant', 'Ivan');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4230263, 'Rav Seren', 'Madeline');
+values (4230263, 'Sergeant', 'Madeline');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5328096, 'Rav Seren', 'Leon');
+values (5328096, 'Sergeant', 'Leon');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9072083, 'Rav Seren', 'Clay');
+values (9072083, 'Sergeant', 'Clay');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8833801, 'Sgan Aluf', 'Judd');
+values (8833801, 'Sergeant', 'Judd');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2729177, 'Rav Seren', 'Lloyd');
+values (2729177, 'Sergeant', 'Lloyd');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4514302, 'Sgan Aluf', 'Ashton');
+values (4514302, 'Sergeant', 'Ashton');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5401461, 'Aluf Mishne', 'Cathy');
+values (5401461, 'Sergeant', 'Cathy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9396533, 'Rav Seren', 'Christian');
+values (9396533, 'Sergeant', 'Christian');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9917635, 'Rav Seren', 'Nicky');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (1459729, 'Rav Seren', 'Pam');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9674945, 'Aluf Mishne', 'Cornell');
+values (9674945, 'Sergeant', 'Cornell');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5376935, 'Sgan Aluf', 'Seann');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9263525, 'Aluf Mishne', 'Rosanne');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5501589, 'Seren', 'Edwin');
+values (5501589, 'Sergeant', 'Edwin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5709048, 'Rav Seren', 'Tyrone');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8188653, 'Aluf Mishne', 'Christmas');
+values (8188653, 'Sergeant', 'Christmas');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6393367, 'Sgan Aluf', 'Colin');
+values (6393367, 'Sergeant', 'Colin');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9286839, 'Rav Seren', 'Jeffrey');
+values (9286839, 'Sergeant', 'Jeffrey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9096626, 'Aluf Mishne', 'Tony');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9612114, 'Aluf Mishne', 'Christian');
+values (9612114, 'Sergeant', 'Christian');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1308442, 'Aluf Mishne', 'Hope');
+values (1308442, 'Sergeant', 'Hope');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7225362, 'Sgan Aluf', 'Wendy');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8542629, 'Rav Seren', 'Rhett');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5701323, 'Seren', 'Janeane');
+values (5701323, 'Sergeant', 'Janeane');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (3922207, 'Sgan Aluf', 'Natacha');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2104288, 'Sgan Aluf', 'Malcolm');
+values (2104288, 'Sergeant', 'Malcolm');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2341456, 'Sgan Aluf', 'Nastassja');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6390858, 'Aluf Mishne', 'George');
+values (6390858, 'Sergeant', 'George');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8122118, 'Rav Seren', 'Albertina');
+values (8122118, 'Sergeant', 'Albertina');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2254073, 'Aluf Mishne', 'Patrick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (5824041, 'Sgan Aluf', 'Coley');
+values (5824041, 'Sergeant', 'Coley');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (7318686, 'Seren', 'Johnnie');
+values (7318686, 'Sergeant', 'Johnnie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3809005, 'Rav Seren', 'Luke');
+values (3809005, 'Sergeant', 'Luke');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (4906952, 'Sgan Aluf', 'Ted');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4850,51 +4850,51 @@ values (9617099, 'Sgan Aluf', 'Ty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8638414, 'Sgan Aluf', 'Vondie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1692471, 'Rav Seren', 'Denny');
+values (1692471, 'Sergeant', 'Denny');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3780657, 'Seren', 'Emmylou');
+values (3780657, 'Sergeant', 'Emmylou');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3267853, 'Aluf Mishne', 'Larry');
+values (3267853, 'Sergeant', 'Larry');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1032296, 'Sgan Aluf', 'Jason');
+values (1032296, 'Sergeant', 'Jason');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2835264, 'Aluf Mishne', 'Goldie');
+values (2835264, 'Sergeant', 'Goldie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5596992, 'Seren', 'Rosanna');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (6760678, 'Aluf Mishne', 'Lindsey');
+values (6760678, 'Sergeant', 'Lindsey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4960145, 'Rav Seren', 'Marlon');
+values (4960145, 'Sergeant', 'Marlon');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2607965, 'Aluf Mishne', 'Bridget');
+values (2607965, 'Sergeant', 'Bridget');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3122378, 'Aluf Mishne', 'Andre');
+values (3122378, 'Sergeant', 'Andre');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9853720, 'Seren', 'Kimberly');
+values (9853720, 'Sergeant', 'Kimberly');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (8115454, 'Sgan Aluf', 'Matt');
+values (8115454, 'Sergeant', 'Matt');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (4639591, 'Sgan Aluf', 'Lou');
+values (4639591, 'Sergeant', 'Lou');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1001406, 'Sgan Aluf', 'Eric');
+values (1001406, 'Sergeant', 'Eric');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2537791, 'Seren', 'Kasey');
+values (2537791, 'Sergeant', 'Kasey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (7693417, 'Rav Seren', 'Winona');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3517447, 'Sgan Aluf', 'Maceo');
+values (3517447, 'Sergeant', 'Maceo');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2426174, 'Aluf Mishne', 'Lennie');
+values (2426174, 'Sergeant', 'Lennie');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2456602, 'Rav Seren', 'Kirk');
+values (2456602, 'Sergeant', 'Kirk');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8356805, 'Aluf Mishne', 'Nastassja');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2209791, 'Rav Seren', 'Carl');
+values (2209791, 'Sergeant', 'Carl');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3907339, 'Rav Seren', 'Kasey');
+values (3907339, 'Sergeant', 'Kasey');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1476401, 'Seren', 'Dom');
+values (1476401, 'Sergeant', 'Dom');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (2878608, 'Seren', 'Whoopi');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4904,27 +4904,27 @@ values (7386000, 'Seren', 'Powers');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9858154, 'Sgan Aluf', 'Pierce');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (3102055, 'Aluf Mishne', 'Betty');
+values (3102055, 'Sergeant', 'Betty');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (6592979, 'Sgan Aluf', 'Terence');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1452016, 'Seren', 'Harry');
+values (1452016, 'Sergeant', 'Harry');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9735391, 'Aluf Mishne', 'Juice');
+values (9735391, 'Sergeant', 'Juice');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2108646, 'Rav Seren', 'Malcolm');
+values (2108646, 'Sergeant', 'Malcolm');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (5974052, 'Aluf Mishne', 'Rufus');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (9684400, 'Aluf Mishne', 'Patrick');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9850836, 'Seren', 'Hugo');
+values (9850836, 'Sergeant', 'Hugo');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (2734813, 'Sgan Aluf', 'Kazem');
+values (2734813, 'Sergeant', 'Kazem');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (1511622, 'Sgan Aluf', 'Miriam');
+values (1511622, 'Sergeant', 'Miriam');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
-values (9379410, 'Aluf Mishne', 'Jaime');
+values (9379410, 'Sergeant', 'Jaime');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
 values (8754957, 'Aluf Mishne', 'Selma');
 insert into SOLDIER (personnel_id, rank, name_of_soldier)
@@ -4933,805 +4933,805 @@ commit;
 prompt 400 records loaded
 prompt Loading FLOWN_BY...
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9617099, 6554623);
+values (1001406, 8327238);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4094064, 4178159);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2537791, 9482712);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8075961, 4163530);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9734553, 5062584);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3641807, 9826361);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8293798, 1920632);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8107741, 2572707);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6956165, 5369899);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6908007, 6029568);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1630421, 9866928);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1289471, 6614209);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7796707, 6438888);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4912563, 3117957);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6042751, 1107832);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6393367, 8729046);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9462974, 2934580);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6760678, 4910365);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2507386, 9651501);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8542629, 6869774);
+values (1001406, 8907738);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1005397, 3156942);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1846364, 2109742);
+values (1005397, 7197633);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9822330, 3127284);
+values (1012419, 1882079);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7484796, 8907738);
+values (1032296, 4216867);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1414877, 2637693);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6143856, 8163662);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9777065, 4049584);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5258493, 1204485);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2104288, 3250114);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6852787, 7672711);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9732997, 4705632);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2440455, 2880930);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7784481, 9965460);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5542663, 9876560);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3185277, 6530640);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1580931, 6438888);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3596067, 1699452);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2537791, 4273393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5666672, 9772473);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9850836, 3127284);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7784481, 5349759);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5197842, 9094945);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3851497, 9340137);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3767525, 4121496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8630248, 9965460);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7225362, 9069583);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8542629, 2639613);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9684400, 9228562);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9875997, 7857610);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2245744, 9504684);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8872368, 4868610);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7936406, 6614209);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3286581, 8728896);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5996108, 1699452);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6314572, 2883414);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2341456, 3157077);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5264375, 9228562);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1001406, 8327238);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2935372, 9482712);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7367019, 7984570);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7625129, 1266331);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6592979, 9938320);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7713328, 8737719);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3252637, 1920632);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5880745, 3286539);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1088966, 6734549);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5168284, 9230888);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5328096, 1839002);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5826914, 7991343);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8293798, 7620252);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1429707, 4121496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9735391, 3433496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8115454, 1889133);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4840730, 7568931);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3907339, 4695397);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9931066, 4273393);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7402315, 3580899);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5542663, 1386174);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4684133, 9149654);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5264375, 9958496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9446219, 7374761);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2710897, 7592981);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6827839, 1862987);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3596067, 8599881);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4196548, 7782852);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8389103, 3429980);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2440455, 9083652);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5709048, 4695397);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6957560, 9089023);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7277847, 2613682);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5274847, 2109742);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3232077, 8450550);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9263525, 1809773);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4350355, 1216440);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1459729, 3678140);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5542663, 1620946);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4101527, 7958360);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8638414, 2865561);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4734787, 1220339);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4350355, 3910321);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8115454, 1662066);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5858816, 1629105);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9482143, 6348818);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1657678, 4049584);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9913472, 8684335);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1238518, 5062584);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7808602, 7912488);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8644291, 5299451);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5993014, 4178159);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3207225, 7991343);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8293798, 3479015);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2710897, 8008752);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7693417, 5248976);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5575496, 8429937);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9452303, 4048713);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3554915, 7247204);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4781587, 8907738);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6521070, 1756872);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1657678, 5467817);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2260820, 5118616);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7332220, 7228287);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8389103, 8572356);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3252637, 4472622);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2106116, 2168218);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1511622, 5408780);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7367019, 8770771);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2835264, 3286539);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8950386, 8893595);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9617099, 8853172);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1621747, 2135437);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2386269, 5277671);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3875783, 7924048);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2123768, 3594090);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6785335, 2827308);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1799960, 9938320);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8800130, 8043358);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6466065, 1488283);
+values (1037558, 1205585);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1085339, 1266331);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4840730, 3374248);
+values (1088966, 6734549);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8325770, 7844491);
+values (1132007, 4284411);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5596992, 3828982);
+values (1132007, 4654666);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7435941, 9513260);
+values (1204485, 1009161);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1205830, 6554623);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1205830, 8355652);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1238518, 5062584);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1238518, 6826082);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1289471, 6614209);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1289471, 9866928);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1289471, 9876560);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7523007, 8729046);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1530839, 7356995);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1005397, 7197633);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5880745, 8106334);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7107728, 4910514);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9127123, 2867074);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9822330, 7515473);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4684133, 8770771);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4291130, 9149654);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4556838, 5056047);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9734553, 2883414);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8833801, 1513649);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9230019, 4121496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1666683, 6284745);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2106116, 4101408);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3102055, 4121496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9379410, 4654666);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9462974, 9075312);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2386269, 8721879);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3670590, 1107832);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7655586, 7515473);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8254846, 8833618);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8004545, 4051150);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9245874, 9989159);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5210626, 8582823);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8293798, 6312310);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7562418, 9089023);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5858816, 4755086);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6648486, 6084836);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9674945, 1215163);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4094064, 7725614);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7632570, 8983905);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4684133, 7046326);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7911039, 9172745);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1205830, 8355652);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2267028, 1073937);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5274847, 9402407);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1205830, 6554623);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8107741, 2568730);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3244474, 2493988);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9373323, 6693175);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6406542, 4152741);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7435941, 6477468);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5054513, 9971834);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1630421, 3433496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9390627, 7781806);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7936406, 5074546);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6262018, 9453911);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9822330, 5369899);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8950386, 1809773);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2000061, 1012463);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9245874, 3728847);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9732997, 7782852);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7225362, 9613359);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6081795, 6882420);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1420131, 9744126);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7278225, 1220339);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9931066, 3157077);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9245874, 5248976);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5542663, 2637693);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5168284, 7046326);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8369312, 7551773);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8630248, 4910514);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3064394, 7924048);
+values (1411169, 7842823);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1414877, 1026336);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8356805, 4556095);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1476401, 8729046);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9462974, 7197633);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2830409, 9856715);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9850836, 3479015);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7277847, 2639613);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9037363, 5655458);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9929797, 9860541);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3383989, 1012463);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7796707, 5369899);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6042751, 7140959);
+values (1414877, 2637693);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1414877, 9989159);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8599920, 9929781);
+values (1420131, 9744126);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5880745, 7725207);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7936406, 9961949);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2254073, 3594090);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2123768, 9504684);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5666672, 2851433);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9858154, 8882657);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5398589, 2934580);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5575496, 9083652);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5827222, 9720973);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7031144, 7565717);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2729177, 2367375);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1511622, 8248850);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5528176, 3250114);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3577547, 9313155);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8279757, 5118616);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7402315, 7112797);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5300630, 5596801);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7084755, 2367375);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1666683, 4755086);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8369312, 3678140);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1626391, 1386153);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2254073, 9597832);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1799960, 6084836);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3875783, 8711934);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6000966, 1025065);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9051004, 9402407);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1692471, 5689433);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5153512, 1268657);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2254073, 3743331);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3307090, 9340137);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9674945, 5604032);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7750082, 4549256);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2850208, 5056047);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3577547, 3767565);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9674945, 5056047);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6957560, 6259026);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7616547, 9253559);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3287263, 1756872);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5197842, 4123250);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8009536, 1920632);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2729177, 8981330);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8599920, 4556095);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2861681, 8503312);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3307090, 8983905);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7085407, 8684335);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1238518, 6826082);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4263679, 2260910);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1037558, 1205585);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6000966, 4152741);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7954938, 1808725);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5824041, 5475461);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1204485, 1009161);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5974052, 1386153);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7803901, 7197633);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5974052, 8623418);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6674604, 8466653);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1530839, 2346062);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4101527, 9083652);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9741486, 9230888);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9734553, 5248976);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8943066, 7912488);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9482143, 1518218);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3102055, 1067795);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3232077, 2168218);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6245019, 4247099);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3767525, 9254523);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8800130, 7592981);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9822330, 5408780);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9942668, 7725207);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6843431, 9453911);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1032296, 4216867);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6521070, 6113964);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9653218, 9958496);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5210626, 8097471);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2772845, 7857610);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2841653, 6898122);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2194363, 8450550);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2254073, 6951095);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1012419, 1882079);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2424625, 3127284);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1001406, 8907738);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9263525, 7420759);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5824041, 1776720);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9704794, 1776720);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2841653, 6948403);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5589896, 6515263);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5707695, 2467780);
+values (1429707, 4121496);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1459729, 1776720);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8866522, 6084836);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8625165, 1220480);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9396533, 1776720);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1132007, 4654666);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5168284, 5847385);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6390858, 6693175);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4180175, 1513649);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1958676, 8146483);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6083234, 4247099);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4291130, 9860541);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8847706, 9961949);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3953250, 5446643);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3641807, 5604032);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2456602, 3374248);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3286581, 8853172);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4127809, 1662066);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7655586, 3897536);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2596893, 5467817);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7367019, 1170010);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2206904, 4082110);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5824041, 2374813);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8943066, 6113964);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9101545, 9826361);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6665906, 9230888);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2973180, 9313155);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4395176, 1882079);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7454901, 5277671);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7318686, 5893093);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4980638, 8106334);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8662661, 9453911);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4196548, 4654666);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9990798, 9938320);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8564909, 2243234);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2474197, 4152741);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1132007, 4284411);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1846364, 4049584);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6262018, 8804611);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6393367, 1920632);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1973082, 4729907);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2254073, 9149654);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4795371, 6693175);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8630248, 1067795);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8356805, 7944750);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7954938, 6438888);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4193082, 5959402);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9913472, 5378834);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1580931, 6252508);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4840730, 1862987);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3286581, 1450319);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2830409, 7725614);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4776589, 1776720);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8325770, 7578096);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5709048, 2949008);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8004545, 2613682);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7519559, 6312310);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9858154, 8429937);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9929797, 8946129);
+values (1459729, 3678140);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1476401, 2383978);
 insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1476401, 8729046);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1511622, 5408780);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1511622, 8248850);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1530839, 2346062);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1530839, 7356995);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1580931, 6252508);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1580931, 6438888);
+insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1580931, 9551946);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4196548, 4048713);
+values (1621747, 2135437);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4301429, 8305374);
+values (1626391, 1386153);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3554915, 1513649);
+values (1630421, 3433496);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3307090, 4216867);
+values (1630421, 9866928);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3860150, 8623418);
+values (1657678, 4049584);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9096626, 4273393);
+values (1657678, 5467817);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2106116, 1067795);
+values (1666683, 4755086);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5858816, 2277399);
+values (1666683, 6284745);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9966385, 9860541);
+values (1692471, 5689433);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1799960, 6084836);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1799960, 9938320);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1846364, 2109742);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1846364, 4049584);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (1958676, 8146483);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (1967011, 1026336);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (1411169, 7842823);
+values (1973082, 4729907);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2048325, 1107832);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7277847, 6148550);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7971546, 4247099);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3577547, 8623418);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7912391, 4094736);
-insert into FLOWN_BY (personnel_id, aircraft_id)
-values (8279757, 9929781);
+values (2000061, 1012463);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (2000061, 2266859);
 insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2048325, 1107832);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2104288, 3250114);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2106116, 1067795);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2106116, 2168218);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2106116, 4101408);
+insert into FLOWN_BY (personnel_id, aircraft_id)
 values (2123768, 1023116);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (4753682, 6519312);
+values (2123768, 3594090);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (5974052, 2003618);
+values (2123768, 9504684);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2341456, 7651871);
+values (2194363, 8450550);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6328497, 7376163);
+values (2206904, 4082110);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (3739775, 6113964);
+values (2245744, 9504684);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2254073, 3594090);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2254073, 3743331);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2254073, 6951095);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2254073, 9149654);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2254073, 9597832);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2260820, 5118616);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (2264600, 4037278);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (9931066, 5277671);
+values (2267028, 1073937);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (6143856, 7924048);
+values (2341456, 3157077);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2341456, 7651871);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2341456, 7719373);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2386269, 5277671);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2386269, 8721879);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2424625, 3127284);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2440455, 2880930);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2440455, 9083652);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2456602, 3374248);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2474197, 4152741);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2507386, 9651501);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2537791, 4273393);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2537791, 9482712);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2596893, 5467817);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2710897, 7592981);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2710897, 8008752);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2729177, 2367375);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2729177, 8981330);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2772845, 7857610);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2830409, 7725614);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2830409, 9856715);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2835264, 3286539);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2841653, 6898122);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2841653, 6948403);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2850208, 5056047);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2861681, 8503312);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2935372, 9482712);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (2973180, 9313155);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3064394, 7924048);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3102055, 1067795);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3102055, 4121496);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3185277, 6530640);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3207225, 7991343);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3232077, 2168218);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3232077, 8450550);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3244474, 2493988);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3252637, 1920632);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3252637, 4472622);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3286581, 1450319);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3286581, 8728896);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3286581, 8853172);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3287263, 1756872);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3307090, 4216867);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3307090, 8983905);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3307090, 9340137);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3383989, 1012463);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3554915, 1513649);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3554915, 7247204);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3577547, 3767565);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3577547, 8623418);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3577547, 9313155);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3596067, 1699452);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3596067, 8599881);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3641807, 5604032);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3641807, 9826361);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3670590, 1107832);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3739775, 6113964);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3767525, 4121496);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3767525, 9254523);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3851497, 9340137);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3860150, 8623418);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3875783, 7924048);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3875783, 8711934);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3907339, 4695397);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (3953250, 5446643);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4094064, 4178159);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4094064, 7725614);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4101527, 7958360);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4101527, 9083652);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4127809, 1662066);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (4132188, 1025065);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (7954938, 1026336);
+values (4180175, 1513649);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4193082, 5959402);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4196548, 4048713);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4196548, 4654666);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4196548, 7782852);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4263679, 2260910);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4291130, 9149654);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4291130, 9860541);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4301429, 8305374);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4350355, 1216440);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4350355, 3910321);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4395176, 1882079);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4556838, 5056047);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4684133, 7046326);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4684133, 8770771);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4684133, 9149654);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4734787, 1220339);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4753682, 6519312);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4776589, 1776720);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4781587, 8907738);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4795371, 6693175);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4840730, 1862987);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4840730, 3374248);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4840730, 7568931);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4912563, 3117957);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (4980638, 8106334);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5054513, 9971834);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5153512, 1268657);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5168284, 5847385);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5168284, 7046326);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5168284, 9230888);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5197842, 4123250);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5197842, 9094945);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5210626, 8097471);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5210626, 8582823);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5258493, 1204485);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5264375, 9228562);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5264375, 9958496);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5274847, 2109742);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5274847, 9402407);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5300630, 5596801);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5328096, 1839002);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5398589, 2934580);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5528176, 3250114);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5542663, 1386174);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5542663, 1620946);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5542663, 2637693);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5542663, 9876560);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5575496, 8429937);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5575496, 9083652);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5589896, 6515263);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5596992, 3828982);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5666672, 2851433);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5666672, 9772473);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5707695, 2467780);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5709048, 2949008);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5709048, 4695397);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5824041, 1776720);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5824041, 2374813);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5824041, 5475461);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5826914, 7991343);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5827222, 9720973);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5858816, 1629105);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5858816, 2277399);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5858816, 4755086);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5880745, 3286539);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5880745, 7725207);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5880745, 8106334);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5974052, 1386153);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5974052, 2003618);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5974052, 8623418);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5993014, 4178159);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (5996108, 1699452);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6000966, 1025065);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6000966, 4152741);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6042751, 1107832);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6042751, 7140959);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6081795, 6882420);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6083234, 4247099);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6143856, 7924048);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6143856, 8163662);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6245019, 4247099);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6262018, 8804611);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6262018, 9453911);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6314572, 2883414);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6328497, 7376163);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6390858, 6693175);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6393367, 1920632);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6393367, 8729046);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6406542, 4152741);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6466065, 1488283);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6521070, 1756872);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6521070, 6113964);
 insert into FLOWN_BY (personnel_id, aircraft_id)
 values (6576501, 2243234);
 insert into FLOWN_BY (personnel_id, aircraft_id)
-values (2341456, 7719373);
+values (6592979, 9938320);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6648486, 6084836);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6665906, 9230888);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6674604, 8466653);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6760678, 4910365);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6785335, 2827308);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6827839, 1862987);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6843431, 9453911);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6852787, 7672711);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6908007, 6029568);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6956165, 5369899);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6957560, 6259026);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (6957560, 9089023);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7031144, 7565717);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7084755, 2367375);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7085407, 8684335);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7107728, 4910514);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7225362, 9069583);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7225362, 9613359);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7277847, 2613682);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7277847, 2639613);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7277847, 6148550);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7278225, 1220339);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7318686, 5893093);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7332220, 7228287);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7367019, 1170010);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7367019, 7984570);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7367019, 8770771);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7402315, 3580899);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7402315, 7112797);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7435941, 6477468);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7435941, 9513260);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7454901, 5277671);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7484796, 8907738);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7519559, 6312310);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7523007, 8729046);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7562418, 9089023);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7616547, 9253559);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7625129, 1266331);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7632570, 8983905);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7655586, 3897536);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7655586, 7515473);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7693417, 5248976);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7713328, 8737719);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7750082, 4549256);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7784481, 5349759);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7784481, 9965460);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7796707, 5369899);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7796707, 6438888);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7803901, 7197633);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7808602, 7912488);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7911039, 9172745);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7912391, 4094736);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7936406, 5074546);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7936406, 6614209);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7936406, 9961949);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7954938, 1026336);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7954938, 1808725);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7954938, 6438888);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (7971546, 4247099);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8004545, 2613682);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8004545, 4051150);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8009536, 1920632);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8075961, 4163530);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8107741, 2568730);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8107741, 2572707);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8115454, 1662066);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8115454, 1889133);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8254846, 8833618);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8279757, 5118616);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8279757, 9929781);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8293798, 1920632);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8293798, 3479015);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8293798, 6312310);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8293798, 7620252);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8325770, 7578096);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8325770, 7844491);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8356805, 4556095);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8356805, 7944750);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8369312, 3678140);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8369312, 7551773);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8389103, 3429980);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8389103, 8572356);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8542629, 2639613);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8542629, 6869774);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8564909, 2243234);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8599920, 4556095);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8599920, 9929781);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8625165, 1220480);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8630248, 1067795);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8630248, 4910514);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8630248, 9965460);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8638414, 2865561);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8644291, 5299451);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8662661, 9453911);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8800130, 7592981);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8800130, 8043358);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8833801, 1513649);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8847706, 9961949);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8866522, 6084836);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8872368, 4868610);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8943066, 6113964);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8943066, 7912488);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8950386, 1809773);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (8950386, 8893595);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9037363, 5655458);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9051004, 9402407);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9096626, 4273393);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9101545, 9826361);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9127123, 2867074);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9230019, 4121496);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9245874, 3728847);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9245874, 5248976);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9245874, 9989159);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9263525, 1809773);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9263525, 7420759);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9373323, 6693175);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9379410, 4654666);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9390627, 7781806);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9396533, 1776720);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9446219, 7374761);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9452303, 4048713);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9462974, 2934580);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9462974, 7197633);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9462974, 9075312);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9482143, 1518218);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9482143, 6348818);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9617099, 6554623);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9617099, 8853172);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9653218, 9958496);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9674945, 1215163);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9674945, 5056047);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9674945, 5604032);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9684400, 9228562);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9704794, 1776720);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9732997, 4705632);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9732997, 7782852);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9734553, 2883414);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9734553, 5062584);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9734553, 5248976);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9735391, 3433496);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9741486, 9230888);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9777065, 4049584);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9822330, 3127284);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9822330, 5369899);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9822330, 5408780);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9822330, 7515473);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9850836, 3127284);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9850836, 3479015);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9858154, 8429937);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9858154, 8882657);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9875997, 7857610);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9913472, 5378834);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9913472, 8684335);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9929797, 8946129);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9929797, 9860541);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9931066, 3157077);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9931066, 4273393);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9931066, 5277671);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9942668, 7725207);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9966385, 9860541);
+insert into FLOWN_BY (personnel_id, aircraft_id)
+values (9990798, 9938320);
 commit;
 prompt 400 records loaded
 prompt Loading SUPPLY...
